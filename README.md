@@ -14,4 +14,5 @@ Giám sát hoạt động hàng ngày của doanh nghiệp là trách nhiệm c�
 Ba cấp quản lý tiêu biểu trong doanh nghiệp gồm: Quản lý cấp chiến lược, quản lý cấp chiến thuật, quản lý cấp tác nghiệp
 Tính tiền làm thêm giờ cho nhân viên thuộc phạm trù ra quyết định nào dưới đây? Có cấu trúc
 Hệ thống ESS thường được sử dụng bởi cấp quản lý nào trong tổ chức? Quản lý cấp cao
-Một trong những chức năng chính của hệ thống ESS là hỗ trợ: Nhà quản lý cấp tác nghiệp trong việc giám sát các hoạt động hàng ngày
+Một trong những chức năng chính của hệ thống ESS là hỗ trợ: Nhà quản lý cấp cao trong việc hoạch định chiến lược dài hạn của doanh nghiệp
+Tất cả đều là ứng dụng thành phần trong hệ thống quản trị quan hệ khách hàng, trừ: Lựa chọn nhà cung cấp nguyên vật liệu và thương thảo giá cả
