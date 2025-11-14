@@ -16,3 +16,6 @@ Tính tiền làm thêm giờ cho nhân viên thuộc phạm trù ra quyết đ�
 Hệ thống ESS thường được sử dụng bởi cấp quản lý nào trong tổ chức? Quản lý cấp cao
 Một trong những chức năng chính của hệ thống ESS là hỗ trợ: Nhà quản lý cấp cao trong việc hoạch định chiến lược dài hạn của doanh nghiệp
 Tất cả đều là ứng dụng thành phần trong hệ thống quản trị quan hệ khách hàng, trừ: Lựa chọn nhà cung cấp nguyên vật liệu và thương thảo giá cả
+Quyết định về việc định giá một sản phẩm sao cho vừa mang lại lợi nhuận cho doanh nghiệp vừa có tính cạnh tranh trên thị trường thuộc loại: Quyết định bán cấu trúc
+Đâu là hệ thống thông tin sử dụng các công cụ và các mô hình toán, thống kê để phân tích, xử lý dữ liệu nhằm tìm ra các thông tin trợ giúp các nhà người quản lý cấp trung trong quá trình ra quyết định bán cấu trúc? DSS
+Bạn sẽ sử dụng hệ thống thông tin nào để dự báo xu hướng kinh tế có thể ảnh hưởng đến công ty của bạn trong 5 năm tới? ESS
