@@ -53,28 +53,26 @@ Các máy tính kết nối với nhau bằng mạng cục bộ LAN sẽ có ưu
 Về mặt dữ liệu, các HTTT quản lý đều phụ thuộc vào HTTT nào sau đây? Phụ thuộc vào các HTTT xử lý giao dịch
 
 TPS
--   Xử lý giao dịch hằng ngày: thu thập → xử lý → ghi nhận → thông báo.
--   Dữ liệu từ các giao dịch tác nghiệp.
--   Dùng cho quản lý cấp thấp.
--   Xử lý đơn giản: tổng hợp, phân loại.
--   Mục tiêu: tự động hóa và ghi nhận giao dịch thường xuyên.
+Xử lý giao dịch hằng ngày: thu thập → xử lý → ghi nhận → thông báo.
+Dữ liệu từ các giao dịch tác nghiệp.
+Dùng cho quản lý cấp thấp.
+Xử lý đơn giản: tổng hợp, phân loại.
+Mục tiêu: tự động hóa và ghi nhận giao dịch thường xuyên.
 
 MIS
--   Lấy dữ liệu từ TPS → tổng hợp → báo cáo định kỳ.
--   Dùng cho quản lý cấp trung.
--   Xử lý: tổng kết, so sánh → tạo báo cáo tóm tắt.
--   Mục tiêu: theo dõi, kiểm soát hoạt động và dự đoán hiệu quả tương
-    lai.
+Lấy dữ liệu từ TPS → tổng hợp → báo cáo định kỳ.
+Dùng cho quản lý cấp trung.
+Xử lý: tổng kết, so sánh → tạo báo cáo tóm tắt.
+Mục tiêu: theo dõi, kiểm soát hoạt động và dự đoán hiệu quả tương lai.
 
 DSS
--   Dùng dữ liệu trong (TPS, MIS) + dữ liệu ngoài → phân tích → mô hình.
--   Dùng cho quản lý cấp cao và nhà phân tích.
--   Xử lý phức tạp: phân tích, mô phỏng, tương tác.
--   Mục tiêu: hỗ trợ quyết định không thường xuyên, không có quy trình
-    cố định.
+Dùng dữ liệu trong (TPS, MIS) + dữ liệu ngoài → phân tích → mô hình.
+Dùng cho quản lý cấp cao và nhà phân tích.
+Xử lý phức tạp: phân tích, mô phỏng, tương tác.
+Mục tiêu: hỗ trợ quyết định không thường xuyên, không có quy trình cố định.
 
 ESS
--   Tổng hợp thông tin từ MIS, DSS + dữ liệu ngoài → biểu đồ, báo cáo khái quát.
--   Dùng cho lãnh đạo cấp cao.
--   Xử lý: tổng hợp, theo dõi, dự báo xu hướng.
--   Mục tiêu: hỗ trợ quyết định chiến lược cấp cao.
+Tổng hợp thông tin từ MIS, DSS + dữ liệu ngoài → biểu đồ, báo cáo khái quát.
+Dùng cho lãnh đạo cấp cao.
+Xử lý: tổng hợp, theo dõi, dự báo xu hướng.
+Mục tiêu: hỗ trợ quyết định chiến lược cấp cao.
