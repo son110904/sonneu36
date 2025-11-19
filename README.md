@@ -76,3 +76,10 @@ Tổng hợp thông tin từ MIS, DSS + dữ liệu ngoài → biểu đồ, bá
 Dùng cho quản lý cấp cao.
 Xử lý: tổng hợp, theo dõi, dự báo xu hướng.
 Mục tiêu: hỗ trợ quyết định chiến lược cấp cao.
+
+Lợi ích quan trọng nhất của hệ thống quản trị tích hợp doanh nghiệp là gì? Cho phép các bộ phận chức năng kinh doanh chia sẻ thông tin
+
+Anh Bình có 2000$ gửi tiết kiệm với lãi suất 9%/năm. Đầu mỗi tháng anh lại gửi vào 100$. Hỏi để có số tiền 10000$ anh Bình phải gửi liên tục thời gian bao lâu. phương án tính đúng: NPER(9%/12,-100,-2000,10000,1)
+
+Điều nào sau đây mô tả đúng nhất về bảng PivotTable  trong Excel?  Công cụ tổng hợp và phân tích dữ liệu
+
