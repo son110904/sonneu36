@@ -83,3 +83,10 @@ Anh Bình có 2000$ gửi tiết kiệm với lãi suất 9%/năm. Đầu mỗi 
 
 Điều nào sau đây mô tả đúng nhất về bảng PivotTable  trong Excel?  Công cụ tổng hợp và phân tích dữ liệu
 
+Mức độ ứng dụng CNTT theo trình tự từ thấp đến cao là: Tự động hoá, hợp lý hoá các thủ tục, tái thiết kế các tiến trình nghiệp vụ, đổi mới toàn diện tổ chức.
+
+Cái nào là cái ghi xoá được nhiều lần:  CD-rewrite
+
+Chi phí phát triển HTTT bao gồm: Chi phí chuyển đổi dữ liệu
+
+Các chiến lược chuyển đổi HTTT bao gồm: Chuyển đổi trực tiếp, chuyển đổi song song, chuyển đổi theo pha và chuyển đổi thí điểm.
