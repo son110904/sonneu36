@@ -70,7 +70,7 @@ Quản trị cơ sở dữ liệu
 -Tổng hợp dữ liệu: Subtotals, pivot table
 -Tổng hợp dữ liệu: Consolidate
 Phân tích và mô hình hóa dữ liệu hỗ trợ ra quyết định
-- giải bài toán tối ưu bằng công cụ Solver
-- Tìm kiếm mục tiêu: Goal seek
-- Trích xuất 1 giá trị từ 1 danh sách/csdl: DGET
-- Phân tích kiểu: What-if
+giải bài toán tối ưu bằng công cụ Solver
+Tìm kiếm mục tiêu: Goal seek
+Trích xuất 1 giá trị từ 1 danh sách/csdl: DGET
+Phân tích kiểu: What-if
