@@ -74,3 +74,5 @@ giải bài toán tối ưu bằng công cụ Solver
 Tìm kiếm mục tiêu: Goal seek
 Trích xuất 1 giá trị từ 1 danh sách/csdl: DGET
 Phân tích kiểu: What-if
+Một mạng xương sống để kết nối các mạng cục bộ: Phần cứng
+ HTTT quản trị nguồn nhân lực mức chiến thuật thực hiện: kiểm soát phân bổ + theo dõi hoạt động
