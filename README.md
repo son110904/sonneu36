@@ -6,9 +6,16 @@ Việc cho phép thông tin đến đúng với người nhận vào đúng th�
 Mb (Megabit) là đơn vị đo gì? Đo tốc độ truyền dữ liệu qua mạng
 Lý do nào sau đây cho thấy bộ nhớ trong được coi là bộ nhớ chính? Không có bộ nhớ trong thì máy tính không thể hoạt động được.
 Mục tiêu của hệ thống thông tin quản lý là? Hỗ trợ các nhà quản lí trong quá trình ra quyết định bằng cách cung cấp những thông tin có chất l­ượng.
-Trong một bảng của cơ sở dữ liệu mô hình quan hệ, giá trị của một trường được chọn làm khóa chính (Primary Key) phải đảm bảo yêu cầu nào sau đây? Có giá trị duy nhất (không trùng nhau); không được rỗng; xác định duy nhất một mẫu tin
+Giá trị của một trường được chọn làm khóa chính phải đảm bảo yêu cầu nào sau đây? Có giá trị duy nhất (không trùng nhau); không được rỗng; xác định duy nhất một mẫu tin
+Một mạng xương sống để kết nối các mạng cục bộ: Phần cứng
+HTTT quản trị nguồn nhân lực mức chiến thuật thực hiện: kiểm soát phân bổ + theo dõi hoạt động
+HĐ chính của gd thiết kế HTTT: thiết kế giao diện vào/ra, thiết kế CSDL và thiết kế logic xử lí
+Việc phân loại HTTT thành hai nhóm: phạm vi hoạt động
+Hệ thống này được thiết kế để hỗ trợ điều phối và tích hợp quy trình trong toàn tổ chức: ERP
+Điền từ: ..là những đặc điểm, tính chất của thực thể mà nhà quản lý có thể lựa chọn đẻ lưu trữ thông tin đáp ứng nhu cầu: Thuộc tính
 Cơ sở dữ liệu là gì? Là một nhóm gồm những bảng có liên quan với nhau
 Phát biểu nào sau đây đúng về World Wide Web? World Wide Web là một dịch vụ trên mạng Internet, cho phép truy cập thông tin dưới dạng siêu văn bản thông qua môi trường Internet.
+Dưới góc độ địa lý, mạng máy tính được phân thành? Mạng cục bộ, mạng diện rộng, mạng toàn cầu
 Hệ thống MIS thường được sử dụng bởi cấp quản lý nào trong tổ chức? Quản lý cấp trung
 Giám sát hoạt động hàng ngày của doanh nghiệp là trách nhiệm của? Các nhà quản lý cấp tác nghiệp
 Ba cấp quản lý tiêu biểu trong doanh nghiệp gồm: Quản lý cấp chiến lược, quản lý cấp chiến thuật, quản lý cấp tác nghiệp
@@ -18,6 +25,7 @@ Tất cả đều là ứng dụng thành phần trong hệ thống quản trị
 Quyết định về việc định giá một sản phẩm sao cho vừa mang lại lợi nhuận cho doanh nghiệp vừa có tính cạnh tranh trên thị trường thuộc loại: Quyết định bán cấu trúc
 Đâu là hệ thống thông tin sử dụng các công cụ và các mô hình toán, thống kê để phân tích, xử lý dữ liệu nhằm tìm ra các thông tin trợ giúp các nhà người quản lý cấp trung trong quá trình ra quyết định bán cấu trúc? DSS
 Bạn sẽ sử dụng hệ thống thông tin nào để dự báo xu hướng kinh tế có thể ảnh hưởng đến công ty của bạn trong 5 năm tới? ESS
+Giúp hỗ trợ và quản trị các hoạt động bán hàng, tối ưu hóa cross selling, up selling là chức năng nào của CRM: Bán hàng
 Hãy cho biết các yếu tố cấu thành HTTT? Con người, phần cứng, phần mềm, dữ liệu và viễn thông.
 Các chức năng cơ bản của HTTT là? C. Thu thập, lưu trữ, xử lí và phân phát thông tin sau khi xử lí ra.
 Đâu là đặc điểm của mạng sao (Star Network Topology)? Tương đối dễ dàng xác định được lỗi mạng này xảy ra ở đâu
@@ -74,6 +82,3 @@ giải bài toán tối ưu bằng công cụ Solver
 Tìm kiếm mục tiêu: Goal seek
 Trích xuất 1 giá trị từ 1 danh sách/csdl: DGET
 Phân tích kiểu: What-if
-Một mạng xương sống để kết nối các mạng cục bộ: Phần cứng
-HTTT quản trị nguồn nhân lực mức chiến thuật thực hiện: kiểm soát phân bổ + theo dõi hoạt động
-HĐ chính của gd thiết kế HTTT: thiết kế giao diện vào/ra, thiết kế CSDL và thiết kế logic xử lí
