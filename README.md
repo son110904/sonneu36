@@ -9,11 +9,13 @@ Mục tiêu của hệ thống thông tin quản lý là? Hỗ trợ các nhà q
 Giá trị của một trường được chọn làm khóa chính phải đảm bảo yêu cầu nào sau đây? Có giá trị duy nhất (không trùng nhau); không được rỗng; xác định duy nhất một mẫu tin
 Một mạng xương sống để kết nối các mạng cục bộ: Phần cứng
 HTTT quản trị nguồn nhân lực mức chiến thuật thực hiện: kiểm soát phân bổ + theo dõi hoạt động
+Hoạt động là thử thách nhất: Thay đổi quy trình thủ tục
 HĐ chính của gd thiết kế HTTT: thiết kế giao diện vào/ra, thiết kế CSDL và thiết kế logic xử lí
 Việc phân loại HTTT thành hai nhóm: phạm vi hoạt động
 Hệ thống này được thiết kế để hỗ trợ điều phối và tích hợp quy trình trong toàn tổ chức: ERP
 Điền từ: ..là những đặc điểm, tính chất của thực thể mà nhà quản lý có thể lựa chọn đẻ lưu trữ thông tin đáp ứng nhu cầu: Thuộc tính
 Cơ sở dữ liệu là gì? Là một nhóm gồm những bảng có liên quan với nhau
+ứng dụng mà tổ chức k mua ngoài mà phải xây dựng: Hỗ trợ ra quyết định
 Phát biểu nào sau đây đúng về World Wide Web? World Wide Web là một dịch vụ trên mạng Internet, cho phép truy cập thông tin dưới dạng siêu văn bản thông qua môi trường Internet.
 Dưới góc độ địa lý, mạng máy tính được phân thành? Mạng cục bộ, mạng diện rộng, mạng toàn cầu
 Hệ thống MIS thường được sử dụng bởi cấp quản lý nào trong tổ chức? Quản lý cấp trung
@@ -29,7 +31,7 @@ Giúp hỗ trợ và quản trị các hoạt động bán hàng, tối ưu hóa
 Hãy cho biết các yếu tố cấu thành HTTT? Con người, phần cứng, phần mềm, dữ liệu và viễn thông.
 Các chức năng cơ bản của HTTT là? C. Thu thập, lưu trữ, xử lí và phân phát thông tin sau khi xử lí ra.
 Đâu là đặc điểm của mạng sao (Star Network Topology)? Tương đối dễ dàng xác định được lỗi mạng này xảy ra ở đâu
-Hãy cho biết danh sách nào sau đây chứa tên thiết bị không phải là thiết bị bộ nhớ ngoài của máy tính điện tử? D. USB Flash, CD-ROM, Keyboard
+Hãy cho biết danh sách nào sau đây chứa tên thiết bị không phải là thiết bị bộ nhớ ngoài của máy tính điện tử? USB Flash, CD-ROM, Keyboard
 Các máy tính kết nối với nhau bằng mạng cục bộ LAN sẽ có ưu điểm nào? Chia sẻ tài nguyên phần cứng, phần mềm, dữ liệu như: máy in, máy quét,..
 Về mặt dữ liệu, các HTTT quản lý đều phụ thuộc vào HTTT nào sau đây? Phụ thuộc vào các HTTT xử lý giao dịch
 TPS
@@ -47,7 +49,7 @@ DSS
 Dùng dữ liệu trong (TPS, MIS) + dữ liệu ngoài → phân tích → mô hình.
 Dùng cho quản lý cấp cao và nhà phân tích.
 Xử lý phức tạp: phân tích, mô phỏng, tương tác.
-Mục tiêu: hỗ trợ quyết định không thường xuyên, không có quy trình cố định.
+Mục tiêu: hỗ trợ quyết định không thường xuyên, không có quy trình cố định, bài toán tìm phương án tối ưu
 ESS
 Tổng hợp thông tin từ MIS, DSS + dữ liệu ngoài → biểu đồ, báo cáo khái quát.
 Dùng cho quản lý cấp cao.
