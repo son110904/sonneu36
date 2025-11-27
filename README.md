@@ -28,6 +28,8 @@ Quyết định về việc định giá một sản phẩm sao cho vừa mang l
 Đâu là hệ thống thông tin sử dụng các công cụ và các mô hình toán, thống kê để phân tích, xử lý dữ liệu nhằm tìm ra các thông tin trợ giúp các nhà người quản lý cấp trung trong quá trình ra quyết định bán cấu trúc? DSS
 Bạn sẽ sử dụng hệ thống thông tin nào để dự báo xu hướng kinh tế có thể ảnh hưởng đến công ty của bạn trong 5 năm tới? ESS
 Giúp hỗ trợ và quản trị các hoạt động bán hàng, tối ưu hóa cross selling, up selling là chức năng nào của CRM: Bán hàng
+Không thuộc hoạt động chuỗi giá trị: quản trị nguồn nhân lực
+Trong giai đoạn thử nghiệm phần mềm, người ta thực hiện các loại hình thử nghiệm sau: thử nghiệm đơn vị, thử nghiệm sử dụng, thử nghiệm chấp nhận
 Hãy cho biết các yếu tố cấu thành HTTT? Con người, phần cứng, phần mềm, dữ liệu và viễn thông.
 Các chức năng cơ bản của HTTT là? C. Thu thập, lưu trữ, xử lí và phân phát thông tin sau khi xử lí ra.
 Đâu là đặc điểm của mạng sao (Star Network Topology)? Tương đối dễ dàng xác định được lỗi mạng này xảy ra ở đâu
@@ -37,7 +39,7 @@ Về mặt dữ liệu, các HTTT quản lý đều phụ thuộc vào HTTT nào
 Xử lí đơn đặt hàng/đặt chỗ trong khách sạn: HTTT xử lí giao dịch
 TPS
 Xử lý giao dịch hằng ngày: thu thập → xử lý → ghi nhận → thông báo.
-Dữ liệu từ các giao dịch tác nghiệp.
+Dữ liệu từ các giao dịch tác nghiệp. Tích hợp các yếu tố con người, các thủ tục, các CSDL
 Dùng cho quản lý cấp tác nghiệp.
 Xử lý đơn giản: tổng hợp, phân loại.
 Mục tiêu: tự động hóa và ghi nhận giao dịch thường xuyên.
