@@ -18,7 +18,6 @@ Cơ sở dữ liệu là gì? Là một nhóm gồm những bảng có liên qua
 ứng dụng mà tổ chức k mua ngoài mà phải xây dựng: Hỗ trợ ra quyết định
 Phát biểu nào sau đây đúng về World Wide Web? World Wide Web là một dịch vụ trên mạng Internet, cho phép truy cập thông tin dưới dạng siêu văn bản thông qua môi trường Internet.
 Dưới góc độ địa lý, mạng máy tính được phân thành? Mạng cục bộ, mạng diện rộng, mạng toàn cầu
-Hệ thống MIS thường được sử dụng bởi cấp quản lý nào trong tổ chức? Quản lý cấp trung
 Giám sát hoạt động hàng ngày của doanh nghiệp là trách nhiệm của? Các nhà quản lý cấp tác nghiệp
 Ba cấp quản lý tiêu biểu trong doanh nghiệp gồm: Quản lý cấp chiến lược, quản lý cấp chiến thuật, quản lý cấp tác nghiệp
 Tính tiền làm thêm giờ cho nhân viên thuộc phạm trù ra quyết định nào dưới đây? Có cấu trúc
