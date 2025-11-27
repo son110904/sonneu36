@@ -35,7 +35,7 @@ Giúp hỗ trợ và quản trị các hoạt động bán hàng, tối ưu hóa
 Không thuộc hoạt động chuỗi giá trị: quản trị nguồn nhân lực
 Trong giai đoạn thử nghiệm phần mềm, người ta thực hiện các loại hình thử nghiệm sau: thử nghiệm đơn vị, thử nghiệm sử dụng, thử nghiệm chấp nhận
 Hãy cho biết các yếu tố cấu thành HTTT? Con người, phần cứng, phần mềm, dữ liệu và viễn thông.
-Các chức năng cơ bản của HTTT là? C. Thu thập, lưu trữ, xử lí và phân phát thông tin sau khi xử lí ra.
+Các chức năng cơ bản của HTTT là? Thu thập, lưu trữ, xử lí và phân phát thông tin sau khi xử lí ra.
 Đâu là đặc điểm của mạng sao (Star Network Topology)? Tương đối dễ dàng xác định được lỗi mạng này xảy ra ở đâu
 Hãy cho biết danh sách nào sau đây chứa tên thiết bị không phải là thiết bị bộ nhớ ngoài của máy tính điện tử? USB Flash, CD-ROM, Keyboard
 Các máy tính kết nối với nhau bằng mạng cục bộ LAN sẽ có ưu điểm nào? Chia sẻ tài nguyên phần cứng, phần mềm, dữ liệu như: máy in, máy quét,..
