@@ -34,6 +34,7 @@ Các chức năng cơ bản của HTTT là? C. Thu thập, lưu trữ, xử lí 
 Hãy cho biết danh sách nào sau đây chứa tên thiết bị không phải là thiết bị bộ nhớ ngoài của máy tính điện tử? USB Flash, CD-ROM, Keyboard
 Các máy tính kết nối với nhau bằng mạng cục bộ LAN sẽ có ưu điểm nào? Chia sẻ tài nguyên phần cứng, phần mềm, dữ liệu như: máy in, máy quét,..
 Về mặt dữ liệu, các HTTT quản lý đều phụ thuộc vào HTTT nào sau đây? Phụ thuộc vào các HTTT xử lý giao dịch
+Xử lí đơn đặt hàng/đặt chỗ trong khách sạn: HTTT xử lí giao dịch
 TPS
 Xử lý giao dịch hằng ngày: thu thập → xử lý → ghi nhận → thông báo.
 Dữ liệu từ các giao dịch tác nghiệp.
