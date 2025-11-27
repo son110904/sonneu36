@@ -13,6 +13,9 @@ HTTT quản trị nguồn nhân lực mức chiến thuật thực hiện: kiể
 Hoạt động là thử thách nhất: Thay đổi quy trình thủ tục
 HĐ chính của gd thiết kế HTTT: thiết kế giao diện vào/ra, thiết kế CSDL và thiết kế logic xử lí
 Việc phân loại HTTT thành hai nhóm: phạm vi hoạt động
+Nhóm các HTTT hỗ trợ hoạt động tác nghiệp, hỗ trợ quản lý: phân theo lĩnh vực hoạt động
+Phân theo mục đích và đối tượng phục vụ: chuyên gia, quản lý tri thức, chiến lược
+Phân theo chức năng: bán hàng và Marketing, tài chính kế toán, kinh doanh và tác nghiệp, quản trị nguồn nhân lực
 Hệ thống này được thiết kế để hỗ trợ điều phối và tích hợp quy trình trong toàn tổ chức: ERP
 Điền từ: ..là những đặc điểm, tính chất của thực thể mà nhà quản lý có thể lựa chọn đẻ lưu trữ thông tin đáp ứng nhu cầu: Thuộc tính
 Cơ sở dữ liệu là gì? Là một nhóm gồm những bảng có liên quan với nhau
