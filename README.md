@@ -1,10 +1,9 @@
-Chế độ đa chương trình là gì, chế độ ấy có tác dụng gì? ---Là quá trình đưa vào bộ nhớ trong nhiều chương trình cùng một lúc rồi dùng hệ điều hành để điều phối CPU luân phiên thực hiện các chương trình ấy.
-Thuộc tính nào sau đây không phải là đặc tính của thông tin có chất lượng? ---Khả năng trao đổi giữa các hệ thống
+Chế độ đa chương trình là gì, chế độ ấy có tác dụng gì? Là quá trình đưa vào bộ nhớ trong nhiều chương trình cùng một lúc rồi dùng hệ điều hành để điều phối CPU luân phiên thực hiện các chương trình ấy.
+Thuộc tính nào sau đây không phải là đặc tính của thông tin có chất lượng? Khả năng trao đổi giữa các hệ thống
 Quyết định chiến lược là: Những quyết định xác định mục tiêu và những quyết định xây dựng nguồn lực cho tổ chức.
 Bản nhạc tải từ trang web: Phần mềm
 Quy trình xử lý thông tin gồm mấy giai đoạn? 4
 Việc cho phép thông tin đến đúng với người nhận vào đúng thời điểm cần thiết thuộc về tiêu chuẩn nào sau đây của một hệ thống thông tin tốt? Tính kịp thời
-Mb (Megabit) là đơn vị đo gì? Đo tốc độ truyền dữ liệu qua mạng
 Lý do nào sau đây cho thấy bộ nhớ trong được coi là bộ nhớ chính? Không có bộ nhớ trong thì máy tính không thể hoạt động được.
 Mục tiêu của hệ thống thông tin quản lý là? Hỗ trợ các nhà quản lí trong quá trình ra quyết định bằng cách cung cấp những thông tin có chất l­ượng.
 Giá trị của một trường được chọn làm khóa chính phải đảm bảo yêu cầu nào sau đây? Có giá trị duy nhất (không trùng nhau); không được rỗng; xác định duy nhất một mẫu tin
@@ -86,8 +85,19 @@ FVSCHEDULE: Tính giá trị tương lai 1 hoản vốn đầu tư với lãi su
 -Lọc dữ liệu tự động Autofilter/Advancefilter
 -Tổng hợp dữ liệu: Subtotals, pivot table
 -Tổng hợp dữ liệu: Consolidate
-Phân tích và mô hình hóa dữ liệu hỗ trợ ra quyết định
 giải bài toán tối ưu bằng công cụ Solver
 Tìm kiếm mục tiêu: Goal seek
 Trích xuất 1 giá trị từ 1 danh sách/csdl: DGET
 Phân tích kiểu: What-if
+Chức năng nào là một trong số các chức năng của phần mềm ứng dụng ? Phản hồi khi có lỗi
+Tổng hợp phân tích nợ xấu: DSS
+lập kế hoạch ngân sách: quản lý cấp trung
+Phương án là kiểu bảo trì được thực hiện với hệ thống thông tin ? Bảo trì phòng ngừa
+Khi xây dựng pivot table, thay đổi cách tính toàn dữ liệu bằng cách sử dụng tính năng: Value Field Settings
+Câu nào không phải chi phí biến động ? Chi phí máy móc tin học
+Phân tích hồi quy bởi bao gồm ? Một biến phụ thuộc và nhiều biến độc lập
+Mạng dùng để thực hiện giao dịch TMĐT giữa doanh nghiệp với khách hàng ?  Intranet, internet
+Quản trị bảo đảm chất lượng? là người chịu trách nhiệm giám sát, phát triển các chuẩn và thủ tục đảm bảo HTTT hoạt động chính xác và có chất lượng
+Công cụ nào sử dụng cho phân tích what if: Goal Seek
+Để xác định số tiền mà khách hàng có thể vay: Dùng goal seek
+Make Unconstrained Variables Non-Negative ? Khi các biến không ràng buộc phải không âm hoặc lớn hơn hoặc bằng 0
