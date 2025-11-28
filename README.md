@@ -30,7 +30,7 @@ Tất cả đều là ứng dụng thành phần trong hệ thống quản trị
 Quyết định về việc định giá một sản phẩm sao cho vừa mang lại lợi nhuận cho doanh nghiệp vừa có tính cạnh tranh trên thị trường thuộc loại: Quyết định bán cấu trúc
 Đâu là hệ thống thông tin sử dụng các công cụ và các mô hình toán, thống kê để phân tích, xử lý dữ liệu nhằm tìm ra các thông tin trợ giúp các nhà người quản lý cấp trung trong quá trình ra quyết định bán cấu trúc? DSS
 Bạn sẽ sử dụng hệ thống thông tin nào để dự báo xu hướng kinh tế có thể ảnh hưởng đến công ty của bạn trong 5 năm tới? ESS
-Hệ thống thông tin sản xuất JIT: đảm bảo nguyên vật liệu
+Hệ thống thông tin sản xuất mức chiến thuật JIT: đảm bảo nguyên vật liệu
 Giúp hỗ trợ và quản trị các hoạt động bán hàng, tối ưu hóa cross selling, up selling là chức năng nào của CRM: Bán hàng
 Không thuộc hoạt động chuỗi giá trị: quản trị nguồn nhân lực
 Trong giai đoạn thử nghiệm phần mềm, người ta thực hiện các loại hình thử nghiệm sau: thử nghiệm đơn vị, thử nghiệm sử dụng, thử nghiệm chấp nhận
