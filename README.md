@@ -97,10 +97,11 @@ Khi xây dựng pivot table, thay đổi cách tính toàn dữ liệu bằng c�
 Câu nào không phải chi phí biến động ? Chi phí máy móc tin học
 Phân tích hồi quy bởi bao gồm ? Một biến phụ thuộc và nhiều biến độc lập
 Mạng dùng để thực hiện giao dịch TMĐT giữa doanh nghiệp với khách hàng ?  Intranet, internet
-Quản trị bảo đảm chất lượng? là người chịu trách nhiệm giám sát, phát triển các chuẩn và thủ tục đảm bảo HTTT hoạt động chính xác và có chất lượng
+Quản trị bảo đảm chất lượng? là người chịu trách nhiệm giám sát quản lý, phát triển các chuẩn và thủ tục đảm bảo HTTT hoạt động chính xác và có chất lượng
 Công cụ nào sử dụng cho phân tích what if: Goal Seek
 Để xác định số tiền mà khách hàng có thể vay: Dùng goal seek
 Make Unconstrained Variables Non-Negative ? Khi các biến không ràng buộc phải không âm hoặc lớn hơn hoặc bằng 0
 Để trích rút ra các bản ghi có thành tiền > 5000 và số lượng >=100 thì dùng công cụ nào? Advanced Filter
 Hồi quy tuyến tính đơn, phương trình đường thẳng tốt nhất là y = a + bx
 nội dung quy tắc hướng dẫn và các thủ tục đồng sử dụng để chọn tổ chức cho công việc cụ thể là ? Tri thức
+Khi lập KH các HTTT trong tổ chức DN, để xác định các tiến trình nghiệp vụ đặc thù người ta sử dụng: Chuỗi giá trị
