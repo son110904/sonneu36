@@ -103,3 +103,4 @@ Công cụ nào sử dụng cho phân tích what if: Goal Seek
 Make Unconstrained Variables Non-Negative ? Khi các biến không ràng buộc phải không âm hoặc lớn hơn hoặc bằng 0
 Để trích rút ra các bản ghi có thành tiền > 5000 và số lượng >=100 thì dùng công cụ nào? Advanced Filter
 Hồi quy tuyến tính đơn, phương trình đường thẳng tốt nhất là y = a + bx
+nội dung quy tắc hướng dẫn và các thủ tục đồng sử dụng để chọn tổ chức cho công việc cụ thể là ? Tri thức
