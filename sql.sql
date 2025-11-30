@@ -95,9 +95,7 @@ FROM DMHE
 GROUP BY NAMDK
 
 SELECT * FROM V_HETHEONAM
--- =====================================================
 -- Câu 3: Thủ tục thêm + sửa
--- =====================================================
 -- 3a) Thêm sinh viên mới + kiểm tra trùng mã + kiểm tra giới tính
 CREATE PROCEDURE SP_THEMSINHVIEN
     @MASV CHAR(10),
