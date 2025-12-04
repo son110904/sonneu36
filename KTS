@@ -53,7 +53,7 @@ phủ định(A+B+C) = phủ địnhA . phủ địnhB. phủ địnhC
 phủ định(A.B.C) = phủ địnhA + phủ địnhB + phủ địnhC
 Mạch điện hình 2.2, có 2 con chuột (tức 2 hàm not) ở giữa mạch. Biểu thức hàm ra là: A⊕B
 Mạch điện hình 2.3, 2 con chuột ở trên, nối với A. Biểu thức hàm ra là: phủ định(A⊕B)
-Rút gọn Aphủ định BC + A Bphủ định C + AB Cphủ định+ ABC = AB +AC+BC
+Rút gọn Aphủ định BC + A Bphủ định C + AB Cphủ định+ ABC = AB + AC + BC
 Rút gọn :F (A, B, C) = S (0, 2, 4, 6,7). Kết quả là: AB+ Cphủ định
 Rút gọn :F (A, B, C, D) = S (0, 1, 8, 9, 10). Kết quả là: B phủ định Cphủ định + A Bphủ định Dphủ định
 Hình And tròn, hình or nhọn, thêm tròn nhỏ chúng sẽ thành NAND và NOR
@@ -70,6 +70,7 @@ Bộ giải mã BCD 8-4-2-1 sang thập phân làm nhiệm vụ biến đổi? �
 Bộ phân kênh có khả năng: nối một lối ra mạch với một trong một nhóm các lối vào
 Nếu bộ tạo bit chẵn/ lẻ phát ra chỉ thị parity chẵn thì mẫu dữ liệu gồm? một số chẵn các bit 1
 Nếu bộ tạo bit chẵn lẻ phát ra chỉ thị parity lẻ thì mẫu dữ liệu gồm: một số lẻ các bit 1
+Mạch giải mã 7 đoạn có mấy đầu vào và mấy đầu ra? 4 vào và 7 ra
 Số nhị phân A = 1101 và B = 1110, sau khi so sánh hai số nhị phân thu được kết quả là: A<B
 Dựa trên bộ so sánh trên hình có chữ 4 bit comparator, các lối ra: có giá trị 0, 1,0
 Cho LED 7 đoạn A chung, muốn hiển thị số 3 thì những thanh nào sáng? Thanh a, b, c, d và g
