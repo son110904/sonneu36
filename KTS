@@ -57,11 +57,19 @@ Rút gọn Aphủ định BC + A Bphủ định C + AB Cphủ định+ ABC = AB 
 Rút gọn :F (A, B, C) = S (0, 2, 4, 6,7). Kết quả là: AB+ Cphủ định
 Rút gọn :F (A, B, C, D) = S (0, 1, 8, 9, 10). Kết quả là: B phủ định Cphủ định + A Bphủ định Dphủ định
 Hình And tròn, hình or nhọn, thêm tròn nhỏ chúng sẽ thành NAND và NOR
-Mạch logic tuần tự là mạch: Có tín hiệu ở đầu ra chỉ phụ thuộc vào tín 
+Mạch logic tuần tự là mạch: Có tín hiệu ở đầu ra chỉ phụ thuộc vào tín hiệu ở đầu vào của mạch tại thời điểm đang xét
 Trong các loại trigơ sau, trigơ nào còn tồn tại tổ hợp cấm? Trigơ RS
 Bảng trạng thái xác định cổng AND có A,B,Y theo thứ tự: 111,100,010,000
 Bảng trạng thái xác định cổng NAND có A,B,Y theo thứ tự: 111,101,011,000
 Bảng trạng thái xác định cổng OR có A,B,Y theo thứ tự: 111,101,011,000
 Bảng xác định cổng NOR là bảng còn lại
-
-n hiệu ở đầu vào của mạch tại thời điểm đang xét
+Đầu ra của cổng AND ở mức cao:Khi tất cả lối vào ở mức cao.
+Cổng XOR tạo ra đầu ra với mức logic cao:Với điều kiện là trạng thái lối vào khác nhau
+Cổng XOR tạo ra đầu ra với mức logic thấp:Với điều kiện là trạng thái lối vào giống nhau
+Bộ giải mã BCD 8-4-2-1 sang thập phân làm nhiệm vụ biến đổi? đầu vào BCD 8-4-2-1 thành đầu ra thập phân tương ứng
+Bộ phân kênh có khả năng: nối một lối ra mạch với một trong một nhóm các lối vào
+Nếu bộ tạo bit chẵn/ lẻ phát ra chỉ thị parity chẵn thì mẫu dữ liệu gồm? một số chẵn các bit 1
+Nếu bộ tạo bit chẵn lẻ phát ra chỉ thị parity lẻ thì mẫu dữ liệu gồm: một số lẻ các bit 1
+Số nhị phân A = 1101 và B = 1110, sau khi so sánh hai số nhị phân thu được kết quả là: A<B
+Dựa trên bộ so sánh trên hình có chữ 4 bit comparator, các lối ra: có giá trị 0, 1,0
+Cho LED 7 đoạn A chung, muốn hiển thị số 3 thì những thanh nào sáng? Thanh a, b, c, d và g
