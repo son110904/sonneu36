@@ -57,7 +57,11 @@ Rút gọn Aphủ định BC + A Bphủ định C + AB Cphủ định+ ABC = AB 
 Rút gọn :F (A, B, C) = S (0, 2, 4, 6,7). Kết quả là: AB+ Cphủ định
 Rút gọn :F (A, B, C, D) = S (0, 1, 8, 9, 10). Kết quả là: B phủ định Cphủ định + A Bphủ định Dphủ định
 Hình And tròn, hình or nhọn, thêm tròn nhỏ chúng sẽ thành NAND và NOR
+Hình minh hoạ hai thiết bị hiển thị 7-đoạn đặt kề nhau, bên trái off, bên phải on. Dải đếm thập phân của cấu hình này là: từ 0 - 99
 Mạch logic tuần tự là mạch: Có tín hiệu ở đầu ra chỉ phụ thuộc vào tín hiệu ở đầu vào của mạch tại thời điểm đang xét
+Bộ ghi dịch dùng để DỊCH PHẢI dữ liệu vào nối tiếp thì luồng bit dữ liệu chuyển động Từ trái qua phải. DỊCH TRÁI ngược lại
+Dữ liệu nạp vào bộ ghi dịch có thể: Là bất kỳ kiểu dữ liệu nào
+Khi tần số xung nhịp của bộ đếm nối tiếp tăng thì: Chức năng của các đầu vào xoá (CLEAR) và lập (SET) không bị ảnh hưởng gì.
 Trong các loại trigơ sau, trigơ nào còn tồn tại tổ hợp cấm? Trigơ RS
 Bảng trạng thái xác định cổng AND có A,B,Y theo thứ tự: 111,100,010,000
 Bảng trạng thái xác định cổng NAND có A,B,Y theo thứ tự: 111,101,011,000
@@ -74,14 +78,22 @@ Mạch giải mã 7 đoạn có mấy đầu vào và mấy đầu ra? 4 vào v�
 Số nhị phân A = 1101 và B = 1110, sau khi so sánh hai số nhị phân thu được kết quả là: A<B
 Dựa trên bộ so sánh trên hình có chữ 4 bit comparator, các lối ra: có giá trị 0, 1,0
 Cho LED 7 đoạn A chung, muốn hiển thị số 3 thì những thanh nào sáng? Thanh a, b, c, d và g
+Cho LED 7 đoạn K chung, muốn thanh nào sáng thì Anốt của thanh đó có mức logic gì? Mức logic 1
 Mạch hợp kênh 15 đường dữ liệu cần bao nhiêu đường địa chỉ? 4 đường
 Nếu số nhị phân B = 0100 và số A = 1100, thì kết quả thu được sau phép cộng là (1) 0000. Điều này đúng không? Đúng, bởi vì kết quả đúng là 1610.
 Dựa vào các thông tin đã cho trên hình có 4 cái bộ cộng, từ trái sang bộ 1 là C4, C3,C2,C1, C4 2 mũi tên trên, 2 mũi dưới, C3 C2 same, C1 1 mũi tên trên, 3 tên dưới. Giá trị đầu ra của bộ cộng là: 1010
 Hỏi đồ hình trạng thái là hình nào, hình có phủ định Q1 nối lên J0,Q0 nối J1 ? 00 -> 01 -> 10->00, 11->00
 Hỏi đồ hình trạng thái của mạch là hình nào, hình có Q0 nối đến cả J1 và K1? 00->11->10->01->00
+Cho mạch mã hoá hình 4-7, hãy xác định hàm C của mạch: 2. 3. 6. 7
+Nếu E = 1 thì hình 4-9 là mạch điện có chức năng gì: Bộ chọn địa chỉ nhị phân 2 lối vào
 Trigơ JK đồng bộ cấu tạo từ cổng NAND hoạt động ở: Sườn dương của xung nhịp
 Trigơ JK đồng bộ cấu tạo từ cổng NOR hoạt động ở? Sườn âm của xung nhịp 
 Các loại trigơ MS hoạt động ở ? Cả hai sườn xung
 Nếu đầu vào D của trigơ thay đổi thì đầu ra? sẽ thay đổi theo D sau khi có xung nhịp clock ở đầu vào
 Phương trình đặc trưng của trigơ JK là? Qk = J Qphủ định + Kphủ định Q
 Trong bộ đếm đồng bộ, các lối vào Clock: phải là dạng xung được phát theo kiểu đơn bước.
+Bảng trạng thái của mạch có J0 = 1, K0 = 1, Q0 nối J1 và K1 là: Q1 Q0 Qk1 Qk0  0 0 1 0 | 0 1 1 1| 1 0 0 1| 1 1 0 0
+Bảng trạng thái của mạch có Q0 không nối với J1 và K1, mũi tên từ Q0 không có hình tròn, mũi tên từ clock không có hình tròn: 0 0 1 1 | 0 1 1 0 | 1 0 0 1| 1 1 0 0|
+Bảng trạng thái của mạch có Q0 không nối với J1 và K1, mũi tên Q0 tròn, mũi tên từ clock có hình tròn là: 0 0 1 0 | 0 1 1 1| 1 0 0 1| 1 1 0 0 
+Bảng trạng thái của mạch mũi tên clock có hình tròn, mũi tên từ Q0 phủ định có hình tròn là: 0 0 1 1| 0 1 1 0| 1 0 0 1| 1 1 0 0
+Bảng trạng thái của mạch Q0 nối J1, J0 nối Q1 phủ định, mũi tên clock nối vào 2 cái hình chữ nhật và mũi tên tròn: 0 0 0 1| 0 1 1 0| 1 0 0 0| 1 1 0 0|
