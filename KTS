@@ -1,1 +1,40 @@
-Phao KTS
+Bộ hợp kênh có khả năng ? Nối một đầu vào trong một nhóm các đầu vào với một đầu ra
+Cổng XNOR có chức năng thực hiện hàm nào? Tương đương
+IC số là loại IC phân loại theo tiêu chí: Phân loại theo bản chất của tín hiệu điện vào/ra của IC.
+Cho sơ đồ logic như hình dưới. Đầu ra Y = A khi: b1b2b3 = 010
+Quá trình thiết kế mạch tổ hợp nói chung KHÔNG bao gồm bước nào? Vẽ đồ hình trạng thái
+Tính chất nào của đại số logic được mô tả bởi phương trình: A(B+C)=AB+AC ? Tính phân phối (Distributive law)
+Cổng logic nào cho trạng thái đầu ra luôn ngược với trạng thái đầu vào? Cổng NOT
+Bộ mã nào sử dụng 5 bit nhị phân để biểu diễn 10 ký hiệu thập phân? Mã Johnson
+Tìm phát biểu ĐÚNG khi sử dụng IC: Không nhất thiết phải sử dụng hết các cổng của IC.
+Chọn phát biểu SAI khi nói về bộ ghi dịch? Muốn ghi và truyền một từ nhị phân n bit cần 2^n phần tử nhớ (2^n Flip-Flop).
+Chọn đáp án SAI khi nói về mạch dãy? Mạch dãy là mạch logic có phần tử nhớ (FF) và được gọi là atomat không có nhớ.
+Mạch tuần tự được mô tả trong hình dưới đây là: Đồ hình trạng thái Mealy.  
+Flip-Flop JK-FF có trạng thái hiện tại là Q và trạng thái tiếp theo là Q’.  Nếu hiện tại Q = “0”, muốn có Q’ = “1” thì phải thiết lập đầu vào kích J,K là bao nhiêu? J=1, K=x
+Cổng NOT sử dụng để: Đảo mức thế tín hiệu đầu vào của nó
+Mạch phân kênh (DEMUX) 64 đầu ra dữ liệu thì cần bao nhiêu đầu vào điều khiển? 6
+Tối thiểu hóa bằng bảng Karnaugh, mỗi nhóm sẽ có số ô là: 2^i ô (i >=0, nguyên)
+Cần sử dụng bao nhiêu bộ cộng 2 số nhị phân 1 bit đầy đủ để ghép thành bộ cộng 2 số nhị phân 8 bit? 8
+Tối thiểu hóa bằng bảng Karnaugh, 1 nhóm có 2^n ô thì sẽ loại được bao nhiêu biến? n biến
+Bộ mã nào mà hai từ mã kế tiếp nhau bao giờ cũng chỉ khác nhau 1 bit? Mã Gray
+Chọn đáp án sai ? Hai loại mô hình mạch dãy, đó là Atomat Mealy và Atomat Moore, hai loại mô hình này là giống nhau.
+Cho A và B là 2 biến logic; A+AB= ? A
+Cho Flip-Flop JK-FF hoạt động với tín hiệu điều khiển đồng bộ (Ck) tích cực sườn dương (sườn lên). Khi Ck xuất hiện sườn dương thì: Đầu ra của FF sẽ được điều khiển bởi các đầu vào
+Biểu diễn hàm logic F, Dạng chuẩn tắc tuyển là: Dạng tổng của các tích chuẩn làm cho hàm F=1
+Mạch hợp kênh (MUX) 32 đầu vào dữ liệu thì cần bao nhiêu đầu vào điều khiển? 5
+Bộ đếm mà các FF đều chịu tác dụng điều khiển của một xung đếm đầu vào, sự chuyển trạng thái của các FF xảy ra cùng lúc thì bộ đếm này là: bộ đếm đồng bộ
+Với mọi phần tử x thuộc tập hợp B ={0,1}, tồn tại các hằng số 0 và 1 sao cho: x + 0 = x, x.1=x
+Bộ bán hiệu có bao nhiêu đầu vào bao nhiêu đầu ra? 2 đầu vào 2 đầu ra
+Cho một biến logic X, phép toán logic ((X⋅X)+X) có giá trị là: X
+Với mọi phần tử x thuộc tập hợp B ={0,1}, ta có: x + x = x
+Đầu ra cổng NAND ở mức thấp khi nào ? Khi tất cả lối vào ở mức cao
+Cần sử dụng bao nhiêu bộ phân kênh (DEMUX) 1→4 để ghép thành bộ phân kênh (DEMUX) 1→32? 11
+ho A, B và C là 3 biến logic. Kết quả rút gọn (A+B)(A+C)= ? A + BC
+IC họ TTL đều dùng được điện áp nguồn nuôi Vcc bằng: 5V
+Rút gọn hàm logic: F(A,B,C) =  ∑(3,5,6,7) ? AB+AC+BC
+Loại Flip-Flop (FF) nào có thể hoạt động ở cả chế độ đồng bộ và chế độ không đồng bộ? RS-FF, D-FF
+Tìm phát biểu sai ? Kết hợp các cổng logic cơ bản AND, OR và NOT không thể thực hiện được mọi hàm logic.
+Flip-Flop D-FF có trạng thái hiện tại là Q và trạng thái tiếp theo là Q’. Nếu đầu vào kích D = “1” thì: Q=0, Q'=1
+Cho Flip-Flop RS-FF hoạt động ở chế độ không đồng bộ: đầu vào tín hiệu S = 0, R = 0. Khi đó trạng thái của RS-FF: giữ nguyên trạng thái cũ
+Tìm phát biểu sai ? Các IC được chế tạo bởi cùng 1 công nghệ
+Mạch tổ hợp nào thường được dùng để định tuyến dữ liệu? Bộ hợp kênh
