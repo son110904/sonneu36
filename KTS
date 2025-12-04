@@ -74,3 +74,14 @@ Mạch giải mã 7 đoạn có mấy đầu vào và mấy đầu ra? 4 vào v�
 Số nhị phân A = 1101 và B = 1110, sau khi so sánh hai số nhị phân thu được kết quả là: A<B
 Dựa trên bộ so sánh trên hình có chữ 4 bit comparator, các lối ra: có giá trị 0, 1,0
 Cho LED 7 đoạn A chung, muốn hiển thị số 3 thì những thanh nào sáng? Thanh a, b, c, d và g
+Mạch hợp kênh 15 đường dữ liệu cần bao nhiêu đường địa chỉ? 4 đường
+Nếu số nhị phân B = 0100 và số A = 1100, thì kết quả thu được sau phép cộng là (1) 0000. Điều này đúng không? Đúng, bởi vì kết quả đúng là 1610.
+Dựa vào các thông tin đã cho trên hình có 4 cái bộ cộng, từ trái sang bộ 1 là C4, C3,C2,C1, C4 2 mũi tên trên, 2 mũi dưới, C3 C2 same, C1 1 mũi tên trên, 3 tên dưới. Giá trị đầu ra của bộ cộng là: 1010
+Hỏi đồ hình trạng thái là hình nào, hình có phủ định Q1 nối lên J0,Q0 nối J1 ? 00 -> 01 -> 10->00, 11->00
+Hỏi đồ hình trạng thái của mạch là hình nào, hình có Q0 nối đến cả J1 và K1? 00->11->10->01->00
+Trigơ JK đồng bộ cấu tạo từ cổng NAND hoạt động ở: Sườn dương của xung nhịp
+Trigơ JK đồng bộ cấu tạo từ cổng NOR hoạt động ở? Sườn âm của xung nhịp 
+Các loại trigơ MS hoạt động ở ? Cả hai sườn xung
+Nếu đầu vào D của trigơ thay đổi thì đầu ra? sẽ thay đổi theo D sau khi có xung nhịp clock ở đầu vào
+Phương trình đặc trưng của trigơ JK là? Qk = J Qphủ định + Kphủ định Q
+Trong bộ đếm đồng bộ, các lối vào Clock: phải là dạng xung được phát theo kiểu đơn bước.
