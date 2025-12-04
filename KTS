@@ -81,6 +81,8 @@ Cho LED 7 đoạn A chung, muốn hiển thị số 3 thì những thanh nào s�
 Cho LED 7 đoạn K chung, muốn thanh nào sáng thì Anốt của thanh đó có mức logic gì? Mức logic 1
 Mạch hợp kênh 15 đường dữ liệu cần bao nhiêu đường địa chỉ? 4 đường
 Nếu số nhị phân B = 0100 và số A = 1100, thì kết quả thu được sau phép cộng là (1) 0000. Điều này đúng không? Đúng, bởi vì kết quả đúng là 1610.
+Trong bộ giải mã trong hình 4-16, mức đầu ra tích cực ở mức logic: thấp
+Trên bộ giải mã 7 đoạn DCBA LT RBI BI/RBO bên trái thì: tại một thời điểm hoạt động, có thể có nhiều hơn một đầu ra ở trạng thái tích cực
 Dựa vào các thông tin đã cho trên hình có 4 cái bộ cộng, từ trái sang bộ 1 là C4, C3,C2,C1, C4 2 mũi tên trên, 2 mũi dưới, C3 C2 same, C1 1 mũi tên trên, 3 tên dưới. Giá trị đầu ra của bộ cộng là: 1010
 Hỏi đồ hình trạng thái là hình nào, hình có phủ định Q1 nối lên J0,Q0 nối J1 ? 00 -> 01 -> 10->00, 11->00
 Hỏi đồ hình trạng thái của mạch là hình nào, hình có Q0 nối đến cả J1 và K1? 00->11->10->01->00
