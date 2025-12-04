@@ -57,4 +57,11 @@ Rút gọn Aphủ định BC + A Bphủ định C + AB Cphủ định+ ABC = AB 
 Rút gọn :F (A, B, C) = S (0, 2, 4, 6,7). Kết quả là: AB+ Cphủ định
 Rút gọn :F (A, B, C, D) = S (0, 1, 8, 9, 10). Kết quả là: B phủ định Cphủ định + A Bphủ định Dphủ định
 Hình And tròn, hình or nhọn, thêm tròn nhỏ chúng sẽ thành NAND và NOR
-Mạch logic tuần tự là mạch: Có tín hiệu ở đầu ra chỉ phụ thuộc vào tín hiệu ở đầu vào của mạch tại thời điểm đang xét
+Mạch logic tuần tự là mạch: Có tín hiệu ở đầu ra chỉ phụ thuộc vào tín 
+Trong các loại trigơ sau, trigơ nào còn tồn tại tổ hợp cấm? Trigơ RS
+Bảng trạng thái xác định cổng AND có A,B,Y theo thứ tự: 111,100,010,000
+Bảng trạng thái xác định cổng NAND có A,B,Y theo thứ tự: 111,101,011,000
+Bảng trạng thái xác định cổng OR có A,B,Y theo thứ tự: 111,101,011,000
+Bảng xác định cổng NOR là bảng còn lại
+
+n hiệu ở đầu vào của mạch tại thời điểm đang xét
