@@ -94,9 +94,13 @@ Trigơ JK đồng bộ cấu tạo từ cổng NOR hoạt động ở? Sườn �
 Các loại trigơ MS hoạt động ở ? Cả hai sườn xung
 Nếu đầu vào D của trigơ thay đổi thì đầu ra? sẽ thay đổi theo D sau khi có xung nhịp clock ở đầu vào
 Phương trình đặc trưng của trigơ JK là? Qk = J Qphủ định + Kphủ định Q
+Phương trình đặc trưng của trigơ RS là? Qk = S+ Rphủ định Q, SR = 0
+Phương trình đặc trưng của trigơ D là? Qk = D
+Phương trình đặc trưng của trigơ T là? Qk = TQ phủ định + T phủ định Q
 Trong bộ đếm đồng bộ, các lối vào Clock: phải là dạng xung được phát theo kiểu đơn bước.
 Bảng trạng thái của mạch có J0 = 1, K0 = 1, Q0 nối J1 và K1 là: Q1 Q0 Qk1 Qk0  0 0 1 0 | 0 1 1 1| 1 0 0 1| 1 1 0 0
 Bảng trạng thái của mạch có Q0 không nối với J1 và K1, mũi tên từ Q0 không có hình tròn, mũi tên từ clock không có hình tròn: 0 0 1 1 | 0 1 1 0 | 1 0 0 1| 1 1 0 0|
 Bảng trạng thái của mạch có Q0 không nối với J1 và K1, mũi tên Q0 tròn, mũi tên từ clock có hình tròn là: 0 0 1 0 | 0 1 1 1| 1 0 0 1| 1 1 0 0 
 Bảng trạng thái của mạch mũi tên clock có hình tròn, mũi tên từ Q0 phủ định có hình tròn là: 0 0 1 1| 0 1 1 0| 1 0 0 1| 1 1 0 0
 Bảng trạng thái của mạch Q0 nối J1, J0 nối Q1 phủ định, mũi tên clock nối vào 2 cái hình chữ nhật và mũi tên tròn: 0 0 0 1| 0 1 1 0| 1 0 0 0| 1 1 0 0|
+Cho biết đây là có thế đếm được Mod mấy (hình 3 cái như nhau)? Mod 8
