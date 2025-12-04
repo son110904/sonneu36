@@ -38,3 +38,23 @@ Flip-Flop D-FF có trạng thái hiện tại là Q và trạng thái tiếp the
 Cho Flip-Flop RS-FF hoạt động ở chế độ không đồng bộ: đầu vào tín hiệu S = 0, R = 0. Khi đó trạng thái của RS-FF: giữ nguyên trạng thái cũ
 Tìm phát biểu sai ? Các IC được chế tạo bởi cùng 1 công nghệ
 Mạch tổ hợp nào thường được dùng để định tuyến dữ liệu? Bộ hợp kênh
+A⊕1 = phủ định A
+A⊕B = A B(phủ định) + A(phủ định) B
+phủ định(A⊕B) =  AB + phủ địnhA phủ địnhB
+A⊕0 = A
+A⊕A = 0
+A⊕ Aphủ định = 1
+phủ định (A Bphủ định + Aphủ định B) = AB + Aphủ định Bphủ định
+phủ định (phủ địnhA phủ định B + AB) =  A Bphủ định + Aphủ định B
+AB + A Bphủ định=1
+A+ Aphủ định B = A+B
+Hai mạch điện tương đương nhau vì chúng đều bằng A
+phủ định(A+B+C) = phủ địnhA . phủ địnhB. phủ địnhC
+phủ định(A.B.C) = phủ địnhA + phủ địnhB + phủ địnhC
+Mạch điện hình 2.2, có 2 con chuột (tức 2 hàm not) ở giữa mạch. Biểu thức hàm ra là: A⊕B
+Mạch điện hình 2.3, 2 con chuột ở trên, nối với A. Biểu thức hàm ra là: phủ định(A⊕B)
+Rút gọn Aphủ định BC + A Bphủ định C + AB Cphủ định+ ABC = AB +AC+BC
+Rút gọn :F (A, B, C) = S (0, 2, 4, 6,7). Kết quả là: AB+ Cphủ định
+Rút gọn :F (A, B, C, D) = S (0, 1, 8, 9, 10). Kết quả là: B phủ định Cphủ định + A Bphủ định Dphủ định
+Hình And tròn, hình or nhọn, thêm tròn nhỏ chúng sẽ thành NAND và NOR
+Mạch logic tuần tự là mạch: Có tín hiệu ở đầu ra chỉ phụ thuộc vào tín hiệu ở đầu vào của mạch tại thời điểm đang xét
