@@ -108,6 +108,7 @@ Bảng trạng thái của mạch có Q0 không nối với J1 và K1, mũi tên
 Bảng trạng thái của mạch có Q0 không nối với J1 và K1, mũi tên Q0 tròn, mũi tên từ clock có hình tròn là: 0 0 1 0 | 0 1 1 1| 1 0 0 1| 1 1 0 0 
 Bảng trạng thái của mạch mũi tên clock có hình tròn, mũi tên từ Q0 phủ định có hình tròn là: 0 0 1 1| 0 1 1 0| 1 0 0 1| 1 1 0 0
 Bảng trạng thái của mạch Q0 nối J1, J0 nối Q1 phủ định, mũi tên clock nối vào 2 cái hình chữ nhật và mũi tên tròn: 0 0 0 1| 0 1 1 0| 1 0 0 0| 1 1 0 0|
+cứ chọn bảng  0 0 0 1 | 0 1 1 0 | 1 0 1 1| 1 1 0 0 trừ 1 số trường hợp lạ
 Khi phát xung clock vào bộ đếm không đồng bộ thì xung clock là: Tín hiệu điều khiển trigơ LSB của bộ đếm.
 Hệ số chia tần số cho một bộ đếm không đồng bộ 5 bit lần lượt là: 2, 4, 8, 16 và 32
 Một bộ đếm đồng bộ Mod 10 sẽ: đếm từ 0->9
