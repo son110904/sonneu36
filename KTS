@@ -44,8 +44,8 @@ phủ định(A⊕B) =  AB + phủ địnhA phủ địnhB
 A⊕0 = A
 A⊕A = 0
 A⊕ Aphủ định = 1
-phủ định (A Bphủ định + Aphủ định B) = AB + Aphủ định Bphủ định
-phủ định (phủ địnhA phủ định B + AB) =  A Bphủ định + Aphủ định B
+phủ định (AB̅ + A̅B) = AB + A̅B̅
+phủ định (A̅B̅ + AB) =  AB̅ + A̅ B
 AB + A Bphủ định=1
 A+ Aphủ định B = A+B
 Hai mạch điện tương đương nhau vì chúng đều bằng A
@@ -53,9 +53,13 @@ phủ định(A+B+C) = phủ địnhA . phủ địnhB. phủ địnhC
 phủ định(A.B.C) = phủ địnhA + phủ địnhB + phủ địnhC
 Mạch điện hình 2.2, có 2 con chuột (tức 2 hàm not) ở giữa mạch. Biểu thức hàm ra là: A⊕B
 Mạch điện hình 2.3, 2 con chuột ở trên, nối với A. Biểu thức hàm ra là: phủ định(A⊕B)
-Rút gọn Aphủ định BC + A Bphủ định C + AB Cphủ định+ ABC = AB + AC + BC
+Rút gọn Aphủ định BC + AB̅ C + AB Cphủ định+ ABC = AB + AC + BC
+Rút AB+ Aphủ định C+ BC = AB + Aphủ định C
+Rút gọn AB + BC + A̅C + B̅C = AB + C
+phủ định(CD +Cphủ định Dphủ định) . phủ định(Aphủ định C + D phủ định) = Cphủ định D
 Rút gọn :F (A, B, C) = S (0, 2, 4, 6,7). Kết quả là: AB+ Cphủ định
 Rút gọn :F (A, B, C, D) = S (0, 1, 8, 9, 10). Kết quả là: B phủ định Cphủ định + A Bphủ định Dphủ định
+rút gọn phủ địnhA C+ AB+ B̅C = A̅B + C
 Hình And tròn, hình or nhọn, thêm tròn nhỏ chúng sẽ thành NAND và NOR
 Hình minh hoạ hai thiết bị hiển thị 7-đoạn đặt kề nhau, bên trái off, bên phải on. Dải đếm thập phân của cấu hình này là: từ 0 - 99
 Mạch logic tuần tự là mạch: Có tín hiệu ở đầu ra chỉ phụ thuộc vào tín hiệu ở đầu vào của mạch tại thời điểm đang xét
