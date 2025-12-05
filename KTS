@@ -102,10 +102,15 @@ Phương trình đặc trưng của trigơ RS là? Qk = S+ Rphủ định Q, SR 
 Phương trình đặc trưng của trigơ D là? Qk = D
 Phương trình đặc trưng của trigơ T là? Qk = TQ phủ định + T phủ định Q
 Trong bộ đếm đồng bộ, các lối vào Clock: phải là dạng xung được phát theo kiểu đơn bước.
+Trong bộ đếm không đồng bộ, tín hiệu cần đếm: phải được nối với trigơ LSB của bộ đếm.
 Bảng trạng thái của mạch có J0 = 1, K0 = 1, Q0 nối J1 và K1 là: Q1 Q0 Qk1 Qk0  0 0 1 0 | 0 1 1 1| 1 0 0 1| 1 1 0 0
 Bảng trạng thái của mạch có Q0 không nối với J1 và K1, mũi tên từ Q0 không có hình tròn, mũi tên từ clock không có hình tròn: 0 0 1 1 | 0 1 1 0 | 1 0 0 1| 1 1 0 0|
 Bảng trạng thái của mạch có Q0 không nối với J1 và K1, mũi tên Q0 tròn, mũi tên từ clock có hình tròn là: 0 0 1 0 | 0 1 1 1| 1 0 0 1| 1 1 0 0 
 Bảng trạng thái của mạch mũi tên clock có hình tròn, mũi tên từ Q0 phủ định có hình tròn là: 0 0 1 1| 0 1 1 0| 1 0 0 1| 1 1 0 0
 Bảng trạng thái của mạch Q0 nối J1, J0 nối Q1 phủ định, mũi tên clock nối vào 2 cái hình chữ nhật và mũi tên tròn: 0 0 0 1| 0 1 1 0| 1 0 0 0| 1 1 0 0|
+Khi phát xung clock vào bộ đếm không đồng bộ thì xung clock là: Tín hiệu điều khiển trigơ LSB của bộ đếm.
+Hệ số chia tần số cho một bộ đếm không đồng bộ 5 bit lần lượt là: 2, 4, 8, 16 và 32
+Một bộ đếm đồng bộ Mod 10 sẽ: đếm từ 0->9
 Cho biết đây là có thế đếm được Mod mấy (hình 3 cái như nhau)? Mod 8
 Cho biết dạng sóng của Q0 và Q1? Q0 dựt lên ở đoạn giữa, Q1 dựt lên ở đoạn cuối
+Nếu như bộ đếm được xoá và sau đó đầu ra Q (BIT 4) được nối với lối CLEAR (xoá) của bộ đếm thì: Bộ đếm sẽ đếm đến số thứ 8, sau đó sẽ preset (lập) lại
