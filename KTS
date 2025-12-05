@@ -10,7 +10,7 @@ Tìm phát biểu ĐÚNG khi sử dụng IC: Không nhất thiết phải sử d
 Chọn phát biểu SAI khi nói về bộ ghi dịch? Muốn ghi và truyền một từ nhị phân n bit cần 2^n phần tử nhớ (2^n Flip-Flop).
 Chọn đáp án SAI khi nói về mạch dãy? Mạch dãy là mạch logic có phần tử nhớ (FF) và được gọi là atomat không có nhớ.
 Mạch tuần tự được mô tả trong hình dưới đây là: Đồ hình trạng thái Mealy.  
-Flip-Flop JK-FF có trạng thái hiện tại là Q và trạng thái tiếp theo là Q’.  Nếu hiện tại Q = “0”, muốn có Q’ = “1” thì phải thiết lập đầu vào kích J,K là bao nhiêu? J=1, K=x
+Flip-Flop JK-FF có trạng thái hiện tại là Q và trạng thái tiếp theo là Q’.Nếu hiện tại Q = “0”, muốn có Q’ = “1” thì phải thiết lập đầu vào kích J,K là bao nhiêu? J=1, K=x
 Cổng NOT sử dụng để: Đảo mức thế tín hiệu đầu vào của nó
 Mạch phân kênh (DEMUX) 64 đầu ra dữ liệu thì cần bao nhiêu đầu vào điều khiển? 6
 Tối thiểu hóa bằng bảng Karnaugh, mỗi nhóm sẽ có số ô là: 2^i ô (i >=0, nguyên)
@@ -108,3 +108,4 @@ Bảng trạng thái của mạch có Q0 không nối với J1 và K1, mũi tên
 Bảng trạng thái của mạch mũi tên clock có hình tròn, mũi tên từ Q0 phủ định có hình tròn là: 0 0 1 1| 0 1 1 0| 1 0 0 1| 1 1 0 0
 Bảng trạng thái của mạch Q0 nối J1, J0 nối Q1 phủ định, mũi tên clock nối vào 2 cái hình chữ nhật và mũi tên tròn: 0 0 0 1| 0 1 1 0| 1 0 0 0| 1 1 0 0|
 Cho biết đây là có thế đếm được Mod mấy (hình 3 cái như nhau)? Mod 8
+Cho biết dạng sóng của Q0 và Q1? Q0 dựt lên ở đoạn giữa, Q1 dựt lên ở đoạn cuối
