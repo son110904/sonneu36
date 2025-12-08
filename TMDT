@@ -33,3 +33,50 @@ Nguyên lý: người gửi (khoá bí mật) để khoá, người nhận (kho�
 - Nhược điểm: mạo danh -> ai là ai : chứng minh thư số
 - Ứng dụng: xác thực thông điệp, toàn vẹn thông điệp, chống từ chối, bảo mật
 - Vài chữ ký số thông dụng: RSA, EIGamal, Schnorr, Digital Signature Standard, Elliptic Curve
+1. Cho p = 5, q = 11 và e = 7. Tạo và kiểm tra chữ ký điện tử với bản tin M = 5
+Tính n = p * q = 5 * 11 = 55
+Tính e(n) = (p - 1)(q -1) = 4 * 10 = 40
+Lấy e = 7
+Tính d sao cho (d * e) mod 40 = 1. Giải pháp là d = 23 vì 23 * 7 = 161 mod 40 = 1
+Khoá công khai là e, n = 7, 55
+Khoá bí mật là d, n = 23, 55
+Mã hoá thông điệp m = 5 thành c= 5 mũ 7 mod 55 = 25
+Từ c = 25 giải mã m = 25 mũ 23 mod 55 = 5 (cấn)
+2. Cho p = 7, q = 11, e = 17, m = 3
+n = 7 * 11 = 77
+e(n) = 6 * 10 = 60
+e = 17
+Tính d sao cho d * 17 mod 60 = 1. Giải pháp d = 53
+Khoá công khai e, n = 17, 77
+Khoá bí mật là d, n = 53, 77
+Mã hoá thông điệp m = 3 thành c =(3 mũ 17) mod 55
+Hàm băm: nhận vào một chuỗi có độ dài bất kỳ và sinh ra một chuỗi có độ dài cố
+định
+- Ứng dụng: kiểm tra tính toàn vẹn của dữ liệu
+- Lưu trữ giá trị mật khẩu trong cơ sở dữ liệu của cá hệ thống thông tin
+4. Chứng thư điện tử:
+- Là một loại chứng nhận do các cơ quan chứng nhận CA cấp, căn cứ để
+xác thực các bên tham gia giao dịch
+5Phân biệt chữ ký số và chứng thư điện tử
+- Chứng thư điện tử: để đối tác biết và xác định được chữ ký số của doanh nghiệp
+là đúng
+- Chữ ký số: do người dùng sử dụng tạo ra sau khi được CA cung cấp chứng thư
+số
+- Chữ ký số được xem là an toàn nếu chữ ký số tạo ra trong thời gian chứng thư
+điện tử có hiệu lực và ktra được bằng khoá công khai ghi trên chứng thư điện tử
+Thuật toán mã hóa phổ biến dùng trong chữ ký số là gì? RSA
+Mã băm của văn bản khi sử dụng thuật toán SHA-256 có độ dài bao nhiêu bit? 256 bit
+SHA-256 là thuật toán dùng để làm gì trong chữ ký số? Sinh giá trị băm của văn bản
+Chữ ký số là gì? Một tập hợp dữ liệu dùng để xác thực danh tính điện tử
+Chữ ký điện tử là gì? Một dạng dữ liệu điện tử gắn với văn bản để xác thực
+Một cách phổ biến để lưu trữ khóa riêng tư an toàn là gì? Lưu trên USB Token hoặc HSM (Hardware Security Module)
+Chữ ký điện tử giúp đảm bảo điều gì? Tính bảo mật và xác thực của dữ liệu
+Cặp khóa trong chữ ký số bao gồm những gì? Khóa công khai và khóa riêng tư
+Tại Việt Nam, chữ ký số có giá trị pháp lý không? Có, nếu được cấp bởi tổ chức cung cấp dịch vụ chứng thực chữ ký số
+Yếu tố nào không phải là đặc điểm của chữ ký điện tử? Có thể bị thay đổi sau khi ký mà không ai phát hiện
+Chữ ký điện tử hoạt động dựa trên mô hình mã hóa nào? Mã hóa bất đối xứng
+Hàm băm (Hash Function) đóng vai trò gì trong chữ ký điện tử? Tạo ra một giá trị duy nhất đại diện cho dữ liệu
+Rủi ro lớn nhất khi sử dụng chữ ký điện tử là gì? Mất quyền kiểm soát khóa riêng tư
+Chữ ký điện tử có thể bị giả mạo không? Có, nếu khóa riêng tư bị đánh cắp
+Chứng chỉ SSL (Secure Sockets Layer) có vai trò gì? Mã hóa dữ liệu truyền giữa người dùng và máy chủ
+Giao thức HTTPS giúp đảm bảo điều gì? Giao dịch trực tuyến an toàn hơn
