@@ -50,14 +50,7 @@ Tính d sao cho d * 17 mod 60 = 1. Giải pháp d = 53
 Khoá công khai e, n = 17, 77
 Khoá bí mật là d, n = 53, 77
 Mã hoá thông điệp m = 3 thành c =(3 mũ 17) mod 55
-Hàm băm: nhận vào một chuỗi có độ dài bất kỳ và sinh ra một chuỗi có độ dài cố
-định
-- Ứng dụng: kiểm tra tính toàn vẹn của dữ liệu
-- Lưu trữ giá trị mật khẩu trong cơ sở dữ liệu của cá hệ thống thông tin
-4. Chứng thư điện tử:
-- Là một loại chứng nhận do các cơ quan chứng nhận CA cấp, căn cứ để
-xác thực các bên tham gia giao dịch
-5Phân biệt chữ ký số và chứng thư điện tử
+Phân biệt chữ ký số và chứng thư điện tử
 - Chứng thư điện tử: để đối tác biết và xác định được chữ ký số của doanh nghiệp
 là đúng
 - Chữ ký số: do người dùng sử dụng tạo ra sau khi được CA cung cấp chứng thư
@@ -122,3 +115,5 @@ Yếu tố nào không thuộc quy trình ký điện tử trong đó sử dụn
 “Việc ký kết hợp đồng điện tử là quá trình thiết lập, đàm phán, ký kết và duy trì các hợp đồng hoàn toàn ở dạng dữ liệu điện tử”. Đây là khái niệm về giao kết hợp
 đồng điện tử trong: Nhóm nghiên cứu thuộc Uỷ ban Châu Âu về hợp đồng trong TMĐT
 Ta có thể tạo một trang HTML với các biểu mẫu để khách hàng cung cấp thông tin về họ trong lúc giao dịch, và đảm bảo rằng các thông tin này được bảo mật và mã hoá khi được gửi đi trên Internetdo sử dụng: SSL
+Website www.tsnn.com là website cung cấp thông tin về: Các thông tin về triển lãm thương mại
+Website nào không hỗ trợ về bảo mật thông tin cá nhân:  Intracen
