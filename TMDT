@@ -33,16 +33,7 @@ Lấy e = 7
 Tính d sao cho (d * e) mod 40 = 1. Giải pháp là d = 23 vì 23 * 7 = 161 mod 40 = 1
 Khoá công khai là e, n = 7, 55
 Khoá bí mật là d, n = 23, 55
-Mã hoá thông điệp m = 5 thành c= 5 mũ 7 mod 55 = 25
-Từ c = 25 giải mã m = 25 mũ 23 mod 55 = 5 (cấn)
-2. Cho p = 7, q = 11, e = 17, m = 3
-n = 7 * 11 = 77
-e(n) = 6 * 10 = 60
-e = 17
-Tính d sao cho d * 17 mod 60 = 1. Giải pháp d = 53
-Khoá công khai e, n = 17, 77
-Khoá bí mật là d, n = 53, 77
-Mã hoá thông điệp m = 3 thành c =(3 mũ 17) mod 55
+Mã hoá thông điệp M= 4: S = M^d (mod n) = M^d : Rn (casio 580)
 Phân biệt chữ ký số và chứng thư điện tử
 - Chứng thư điện tử: để đối tác biết và xác định được chữ ký số của doanh nghiệp
 là đúng
