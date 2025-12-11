@@ -41,7 +41,6 @@ số
 - Chữ ký số được xem là an toàn nếu chữ ký số tạo ra trong thời gian chứng thư
 điện tử có hiệu lực và ktra được bằng khoá công khai ghi trên chứng thư điện tử
 Thuật toán mã hóa phổ biến dùng trong chữ ký số là gì? RSA
-Mã băm của văn bản khi sử dụng thuật toán SHA-256 có độ dài bao nhiêu bit? 256 bit
 SHA-256 là thuật toán dùng để làm gì trong chữ ký số? Sinh giá trị băm của văn bản
 Chữ ký số là gì? Một tập hợp dữ liệu dùng để xác thực danh tính điện tử
 Chữ ký điện tử là gì? Một dạng dữ liệu điện tử gắn với văn bản để xác thực
