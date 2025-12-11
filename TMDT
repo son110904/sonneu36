@@ -30,7 +30,7 @@ Nguyên lý: người gửi (khoá bí mật) để khoá, người nhận (kho�
 Tính n = p * q = 5 * 11 = 55
 Tính e(n) = (p - 1)(q -1) = 4 * 10 = 40
 Lấy e = 7
-Tính d sao cho (d * e) mod 40 = 1. Giải pháp là d = 23 vì 23 * 7 = 161 mod 40 = 1
+Tính d sao cho (d * e) : 40 dư 1. Giải pháp là d = 23 vì 23 * 7 = 161 chia 40 dư 1 (cứ thử từng đáp án)
 Khoá công khai là e, n = 7, 55
 Khoá bí mật là d, n = 23, 55
 Mã hoá thông điệp M= 4: S = M^d (mod n) = M^d : Rn (casio 580)
