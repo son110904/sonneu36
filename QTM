@@ -70,3 +70,32 @@ router(config)#ip route 0.0.0.0 0.0.0.0 10.1.1.1
 68.	Giả sử ổ đĩa C: đã được định dạng với hệ thống tệp tin FAT, cần sử dụng lệnh nào dưới đây đểchuyển đổi ổ này sang hệ thống tệp tin NTFS? convert C: /fs:ntfs 
 69.	Hãy xác định 1 thành phần dưới đây không phải là thành phần trong cấu trúc logic của Active Directory (Chuong 3) A. Tree B. Forest C. Site D. Domain
 70.	NSD u01 thuộc về hai nhóm g1 và g2. Nhóm g2 có quyền full control trên file f1. Nhóm g1 bị từ chối quyền write trên file f1. Quyền thực tế trên f1 của u01 là gì: Read/Execute
+71. Switch hoạt động ở tầng nào trong mô hình OSI? Tầng 2
+72. Lệnh nào để xem bảng MAC Address trên switch Cisco? show mac-address-table
+73. Router hoạt động chủ yếu ở tầng nào của mô hình OSI?Tầng 3 
+74. Câu lệnh nào dùng để lưu cấu hình hiện tại vào bộ nhớ khởi động trên switch/router? copy running-config startup-config
+75 VLAN dùng để chia mạng như thế nào? Theo cổng vật lý
+76. Để gán một cổng switch vào VLAN 10, lệnh nào sau đây đúng? switchport access vlan 10
+Chế độ nào cho phép switch trunk nhiều VLAN? Trunk mode
+Router nào của Cisco dùng chủ yếu cho văn phòng nhỏ (SOHO)? Cisco 1900
+Địa chỉ IP nào sau đây là địa chỉ broadcast lớp C? 192.168.1.255
+Để truy cập từ xa vào Router Cisco qua SSH, bạn cần cấu hình gì? VTY lines và SSH
+Khi nào switch học địa chỉ MAC mới? Khi nhận được một frame mới
+Lệnh nào dùng để vào chế độ cấu hình toàn cục (Global Configuration Mode)? configure terminal
+Chế độ "enable" trên switch/router dùng để làm gì? Truy cập chế độ quản trị cao hơn
+Lệnh "show interfaces" dùng để làm gì? Hiển thị thông tin trạng thái các cổng
+Tính năng "Port Security" trên switch nhằm mục đích gì? Giới hạn số lượng MAC address trên cổng
+Để reset switch Cisco về mặc định ban đầu, lệnh nào đúng? erase startup-config và reload
+Khi thiết bị nhận gói tin không thuộc VLAN của nó, switch sẽ làm gì? Bỏ gói tin
+Giao thức nào cho phép switch gửi bản tin tìm kiếm VLAN tự động? VTP
+Để chặn một VLAN truyền qua trunk, ta làm gì? Disallow VLAN trên trunk port
+Router sử dụng giao thức định tuyến nào để tìm đường ngắn nhất? OSPF
+Lệnh nào trên switch Cisco dùng để bật chế độ cổng trunk? switchport mode trunk
+Giao thức nào sau đây được Cisco sử dụng để khám phá thiết bị lân cận? CDP
+Địa chỉ IP mặc định của nhiều thiết bị switch Cisco mới xuất xưởng là gì? Không có
+Khi gõ lệnh "ping 192.168.1.1", thiết bị đang thực hiện gì? Gửi ICMP echo request
+Câu lệnh nào để bật giao diện trên router hoặc switch? no shutdown
+Lệnh nào kiểm tra tuyến đường mạng trên router Cisco? show ip route
+Giao thức nào giúp các switch tránh vòng lặp mạng? STP
+Switch lớp 3 khác với switch lớp 2 ở điểm nào? Có thể định tuyến IP
+Trong phần mềm mô phỏng Packet Tracer, sử dụng công cụ nào trong số các công cụ sau đây để tiến hành kiểm tra quá trình gửi và nhận giữa các thiết bị? Add Simple PDU
