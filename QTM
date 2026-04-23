@@ -99,3 +99,35 @@ Lệnh nào kiểm tra tuyến đường mạng trên router Cisco? show ip rout
 Giao thức nào giúp các switch tránh vòng lặp mạng? STP
 Switch lớp 3 khác với switch lớp 2 ở điểm nào? Có thể định tuyến IP
 Trong phần mềm mô phỏng Packet Tracer, sử dụng công cụ nào trong số các công cụ sau đây để tiến hành kiểm tra quá trình gửi và nhận giữa các thiết bị? Add Simple PDU
+Phương thức Polling trong quản trị mạng là: Thiết bị quản lý chủ động thăm dò thiết bị theo chu kỳ
+Hệ thống quản trị mạng (NMS) bao gồm: Cả phần mềm và phần cứng
+SNMP là viết tắt của: Simple Network Management Protocol
+Thành phần nào của SNMP chịu trách nhiệm thu thập thông tin từ các thiết bị?  Agent 
+Thành phần nào của SNMP là phần mềm trung tâm giám sát thiết bị? Manager
+Cơ sở dữ liệu chứa thông tin quản lý các đối tượng mạng gọi là:MIB
+Trap trong SNMP là: Thông báo tự động khi có sự kiện bất thường
+SNMP giúp:Giám sát và quản lý các thiết bị mạng
+SNMP được định nghĩa trong: RFC
+Trong định tuyến tĩnh, thông tin cấu hình được:Thiết lập thủ công bởi quản trị viên
+Access Point là thiết bị:Phát sóng WiFi, kết nối mạng không dây với mạng có dây
+VLAN có tác dụng: Chia mạng nội bộ thành các vùng logic
+CLI dùng để: Cấu hình thiết bị mạng qua dòng lệnh 
+Ưu điểm của định tuyến tĩnh: Tiết kiệm băng thông, kiểm soát rõ đường đi
+Định tuyến tĩnh là:Quản trị viên thiết lập thủ công đường đi dữ liệu
+Địa chỉ IP dùng để: Phân biệt các thiết bị trong mạng
+Hub khác Switch ở điểm nào? Hub truyền dữ liệu tới tất cả các cổng
+Switch có chức năng:  Chuyển tiếp dữ liệu giữa các thiết bị trong cùng mạng nội bộ
+Windows Server là: Hệ điều hành máy chủ của Microsoft 
+Active Directory có chức năng: Quản lý tập trung người dùng và thiết bị
+OU dùng để: Phân nhóm đối tượng trong AD
+Group Policy cho phép: Cấu hình, kiểm soát hệ thống tập trung
+File Server là: Máy chủ lưu trữ và chia sẻ dữ liệu
+Phục hồi dữ liệu từ bản sao lưu gọi là:Restore
+Tấn công từ chối dịch vụ (DoS) có tác dụng:Làm hệ thống ngừng hoạt động
+Hình thức lừa đảo qua email giả mạo gọi là: Phishing
+Firewall giúp:  Kiểm soát lưu lượng, ngăn truy cập trái phép
+IDS/IPS có tác dụng: Phát hiện và ngăn chặn tấn công mạng 
+VPN giúp: Tạo kết nối an toàn qua mạng công cộng
+Phần mềm Antivirus có tác dụng: Phát hiện và tiêu diệt phần mềm độc hại
+Mã hóa dữ liệu giúp: Bảo vệ dữ liệu khỏi truy cập trái phép 
+Xác thực người dùng là quá trình:Kiểm tra danh tính khi truy cập hệ thống
