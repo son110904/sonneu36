@@ -48,8 +48,7 @@ Giả sử trong cơ quan nhiều người dùng có nhu cầu sử dụng tài 
 Lệnh nào dùng để xóa file cấu hình đang lưu trong NVRAM 
 Router# erase startup-config
 Resource Record nào ánh xạ tên máy (hostname) vào địa chỉ IP version 6? AAAA
-Câu lệnh nào cấu hình định tuyến mặc định cho router?  
-router(config)#ip route 0.0.0.0 0.0.0.0 10.1.1.1
+Câu lệnh nào cấu hình định tuyến mặc định cho router?  router(config)#ip route 0.0.0.0 0.0.0.0 10.1.1.1
 Roaming profile cho phép lưu profile của user trên đâu? Client 
 FTP sử dụng cổng nào để truyền lệnh? 21 
 Khi lược sử của 1 NSD bị hỏng, không đăng nhập được, cần thực hiện thao tác gì Xóa lược sử cũ của NSD
