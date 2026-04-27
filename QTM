@@ -131,3 +131,12 @@ VPN giúp: Tạo kết nối an toàn qua mạng công cộng
 Phần mềm Antivirus có tác dụng: Phát hiện và tiêu diệt phần mềm độc hại
 Mã hóa dữ liệu giúp: Bảo vệ dữ liệu khỏi truy cập trái phép 
 Xác thực người dùng là quá trình:Kiểm tra danh tính khi truy cập hệ thống
+“Hình thức tấn công vào phiên làm việc giữa client và server cách đánh cắp cookie của người sử dụng sau khi họ đã qua bước xác thực với máy chủ, sau đó sẽ chiếm quyền điều khiển của phiên làm việc này.”. Đây là mô tả đúng nhất về hình thức tấn công nào? Session Hijacking
+Có một chức năng trong hệ thống đã được thiết lập là disabled, bạn muốn thay đổi chức năng này bằng cách sử dụng GPO, cụ thể, trong GPO bạn thiết lập giá trị cho nó là "Not Configured". Kết quả của thiết lập này là?Trạng thái của chức năng đó vẫn là disabled
+Đâu là phát biểu đúng khi nói về Network Base IDS?Không cho biết việc tấn công có thành công hay không thành công
+Điền vào chỗ trống: Trong kiến trúc AD, ……… định nghĩa các đối tượng và các thuộc tính mà dịch vụ thư mục sử dụng để lưu trữ dữ liệu ?  Schema
+Điều gì xảy ra khi bạn di chuyển tệp hoặc thư mục trong cùng một ổ đĩa NTFS? Các quyền được chỉ định cho thư mục không thay đổi.
+Khi liên kết đối tượng chính sách nhóm GPO vào các đối tượng, có 2 phát biểu như sau:PB1: "Mỗi GPO có thể liên kết đến nhiều đối tượng trên AD."; PB2: "Mỗi đối tượng trên AD có thể liên kết đến nhiều GPO khác nhau.". Hỏi khẳng định nào sau đây là đúng? c.
+PB1 đúng, PB2 đúng
+Một SNMP agent có thể gửi messages nào?Response
+Khi nói về cơ chế Poll ở trong giao thức quản trị mạng đơn giản SNMP, khẳng định nào sau đây là KHÔNG đúng? Mỗi khi trong Device xảy ra một sự kiện (event) nào đó thì Device sẽ tự động gửi thông báo cho Manager.
