@@ -1,81 +1,81 @@
-1.	Trong domain đang chạy ở chế độ Windows Server 2012 R2 (Windows Server 2012 R2 domain functional level), các đối tượng nào KHÔNG thể là thành viên của group kiểu global? Universal
-2.	quản trị-AD AD là một số nguyên nhận giá trị từ 0 đến 255
-3.	Công nghệ nào cho phép người sử dụng kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn?VPN
-4.	Lệnh nào dùng để kiểm tra kết nối giữa các host thông qua một Switch trong cùng một mạng LAN?ping address 
-5.	Khi thêm một User Account mới, bắt buộc phải khai báo thông số nào?Tên đăng nhập
-6.	Trong cấu hình router, câu lệnh nào dùng để chuyển người dùng từ chế độ cấu hình User vào chế độ cấu hình Privileged? Router> enable
-7.	Starter  GPO được sử dụng như một bản mẫu để tạo ra các GPO mới
-8.	Tên nhãn ngoài cũng bên phải trong mỗi domain name được gọi là gì?Top- level domain
-9.	Tiện ích nào sau đây là một phương thức bảo mật truy cập từ xa tốt hơn telnet? SSH
-10.	 Group nào được sử dụng để tập hợp người dùng và group trên nhiều domain hoặc toàn forest? Universal
-11.	 Nguy cơ hệ thống: Lỗ hổng hệ thống và các mối đe dọa đến hệ thống 
-12.	 Các kiểu tấn công từ chối dịch vụ:  SYN Flood Attack ,DNS Attack,  Smurf Attack 
-13.	 Nhóm dùng để gán quyền cho tài nguyên: Nhóm toàn thể, Nhóm an ninh, Nhóm cục bộ miền
-14.	 Trong giao thức quản trị mạng đơn giản SNMP, mỗi object có một tên gọi và một mã số để nhận dạng object đó, mã số đó được gọi là OID
-15.	 Trong chế độ cấu hình của router, chế độ Router Configuration có dấu nhắc như thế nào? D. Router(config-router)#
-16.	 Sử dụng câu lệnh nào để xem thông tin tóm lược của tất cả các giao diện trong router? Router#show ip int brief 
-17.	Chính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user? Giới hạn số lần login 
-18.	Trong cấu hình router, dấu nhắc nào cho biết đang ở chế độ cấu hình Global configuration? Router(config)#
-19.	Trong cấu hình router,sử dụng câu lệnh nào cho biết kết quả đặt tên hostname của router là CNTT? Router(config)# hostname CNTT
-20.	Thứ tự thực thi các GPOs trong cấu trúc Active Directory? Site,Domain,Ou 
-21.	Trong Windows Server 2012, các nhóm cục bộ hệ thống (built-in) sẽ nhận các thiết lập đặc biệt thông qua cơ chế nào? Quyền hạn người dùng (user right)
-22.	Chức năng hệ thống phát hiện xâm nhập IDS: Giám sát, cảnh báo, bảo vệ 
-23.	 phương thức Trap: Agent tự động gửi Trap đến Manager khi có một sự kiện xảy ra ở Object nào đó trong Agent
-24.	Network Based IDS: Không cho biết việc tấn công có thành công hay không thành công
-25.	Tiêu chí đánh giá khi xác định mức độ nguy cơ hệ thống? Chi phí,thời gian, danh dự, tài nguyên hệ thống, cơ hội kinh doanh  / KHÔNG CÓ Quy mô tấn công
-26.	Dịch vụ sau đây cần thiết để cho Active Directory hoạt động? DNS
-27.	Đối tượng nào đóng vai trò khởi pháp phiên truyền thông của cơ chế Poll ở trong giao thức quản trị mạng đơn giản SNMP? Manager
-28.	 Tên môi trường Windows, tài khoản người dùng được định nghĩa trên máy cục bộ và tài khoản này chỉ được phép chọn logon, truy cập các tài nguyên trên máy tính cục bộ được gọi là tài nguyên gì?Tài khoản người dùng cục bộ (Local User Account)
-29.	 Sử dụng câu lệnh nào để kiểm tra dịch vụ DNS? Nslookup 
-30.	 So sánh giữa System Policy và Group Policy? Chính sách nhóm chứa tất cả các chức năng của chính sách hệ thống
-31.	 Sử dụng câu lệnh nào để kiểm tra hoạt động của dịch vụ DHCP trên router? Router#show ip dhcp binding 
-32.	 Lệnh nào dùng để lưu file cấu hình đang chạy trên RAM (file running config) vào NVRAM? Router# copy running-config startupconfig 
-33.	 Có một chức năng trong hệ thống đã được thiết lập là disabled, bạn muốn thay đổi chức năng này bằng cách sử dụng GPO, cụ thể, trong GPO bạn thiết lập giá trị cho nó là Not Configured. Kết quả của thiết lập này là? Trạng thái của chức năng đó vẫn là disabled 
-34.	Volume kiểu striped: Volume kiểu striped giúp nâng cao hiệu xuất xử lý so với volume kiểu simple. 
-35.	 Bản ghi quy định trên các server là NS 
-36.	Thuật ngữ nào sau đây nói về một thành phần giao tiếp mềm (software interface). Nó giúp máy tính giao tiếp với thiết bị in?  Printer driver
-37.	Bạn đang quản lý miền bmcntt.edu. Trên miền này, chỉ có user Administrator mới có quyền gia nhập một máy tính vào miền bmcntt.edu. Để cấp quyền cho tài khoản người dùng có tên HOCVIEN có quyên gia nhập một máy tính vào miền bmcntt.edu, bạn sẽ chọn chính sách hệ thống nào để thêm tài khoản HOC VIEN vào danh sách được áp dụng chính sách này?  Add workstations to the domain 
-38.	 Nếu đĩa định dạng là NTFS thì trong hộp thoại Properties sẽ có thêm một Tab gì so với hộp thoại Properties nếu ổ dĩa định dạng là FAT?  Tab Security 
-39.	 Trong hệ thống Mail Server, giao thức kết nối giữa server to server là SMTP 
-40.	 Cụm từ nào sau đây KHÔNG phải là tên của một lĩnh vực trong công tác quản trị mạng Group management 
-41.	DHCPACK, dây là gói tin nhằm giúp DHCP server xác nhận thông tin áp dụng cho client
-42.	Tên của các lĩnh vực trong công tác quản trị mạng: Configuration management, Accounting management, Fault management, Security management, Performance Management 
-43.	 Để chuyển Windows Server 2012 R2 từ chế độ Server Core sang Minimal Server Interface, bạn phải cài đặt feature nào? Graphical Management Tools and Infrastructure 
-44.	 Kiểu Volunt nào sau đây được Windows Server 2012 R2 hỗ trợ và có khả năng chịu lỗi? Mirrored
-45.	Profile có 2 loại là Network Profile và Local Profile. Vậy Network Profile có những loại nào? Roaming profile và Mandatory profile
-46.	Đâu là một kết luận sai khi nói về quy tắc đặt mật khẩu cho Router Không phân biệt chữ hoa, chữ thường
-47.	Giả sử trong cơ quan nhiều người dùng có nhu cầu sử dụng tài nguyên trong hệ thống giống nhau. Anh (chị) hãy cho biết cách đơn giản nhất để cấp quyền cho họ là? Đặt họ vào những nhóm, sau đó gán quyền cho các nhóm đó
-48.	Lệnh nào dùng để xóa file cấu hình đang lưu trong NVRAM 
+Trong domain đang chạy ở chế độ Windows Server 2012 R2 (Windows Server 2012 R2 domain functional level), các đối tượng nào KHÔNG thể là thành viên của group kiểu global? Universal
+quản trị-AD AD là một số nguyên nhận giá trị từ 0 đến 255
+Công nghệ nào cho phép người sử dụng kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn?VPN
+Lệnh nào dùng để kiểm tra kết nối giữa các host thông qua một Switch trong cùng một mạng LAN?ping address 
+Khi thêm một User Account mới, bắt buộc phải khai báo thông số nào?Tên đăng nhập
+rong cấu hình router, câu lệnh nào dùng để chuyển người dùng từ chế độ cấu hình User vào chế độ cấu hình Privileged? Router> enable
+Starter  GPO được sử dụng như một bản mẫu để tạo ra các GPO mới
+Tên nhãn ngoài cũng bên phải trong mỗi domain name được gọi là gì?Top- level domain
+Tiện ích nào sau đây là một phương thức bảo mật truy cập từ xa tốt hơn telnet? SSH
+Group nào được sử dụng để tập hợp người dùng và group trên nhiều domain hoặc toàn forest? Universal
+Nguy cơ hệ thống: Lỗ hổng hệ thống và các mối đe dọa đến hệ thống 
+Các kiểu tấn công từ chối dịch vụ:  SYN Flood Attack ,DNS Attack,  Smurf Attack 
+Nhóm dùng để gán quyền cho tài nguyên: Nhóm toàn thể, Nhóm an ninh, Nhóm cục bộ miền
+Trong giao thức quản trị mạng đơn giản SNMP, mỗi object có một tên gọi và một mã số để nhận dạng object đó, mã số đó được gọi là OID
+Trong chế độ cấu hình của router, chế độ Router Configuration có dấu nhắc như thế nào? D. Router(config-router)#
+Sử dụng câu lệnh nào để xem thông tin tóm lược của tất cả các giao diện trong router? Router#show ip int brief 
+Chính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user? Giới hạn số lần login 
+Trong cấu hình router, dấu nhắc nào cho biết đang ở chế độ cấu hình Global configuration? Router(config)#
+Trong cấu hình router,sử dụng câu lệnh nào cho biết kết quả đặt tên hostname của router là CNTT? Router(config)# hostname CNTT
+Thứ tự thực thi các GPOs trong cấu trúc Active Directory? Site,Domain,Ou 
+Trong Windows Server 2012, các nhóm cục bộ hệ thống (built-in) sẽ nhận các thiết lập đặc biệt thông qua cơ chế nào? Quyền hạn người dùng (user right)
+Chức năng hệ thống phát hiện xâm nhập IDS: Giám sát, cảnh báo, bảo vệ 
+phương thức Trap: Agent tự động gửi Trap đến Manager khi có một sự kiện xảy ra ở Object nào đó trong Agent
+Network Based IDS: Không cho biết việc tấn công có thành công hay không thành công
+Tiêu chí đánh giá khi xác định mức độ nguy cơ hệ thống? Chi phí,thời gian, danh dự, tài nguyên hệ thống, cơ hội kinh doanh  / KHÔNG CÓ Quy mô tấn công
+Dịch vụ sau đây cần thiết để cho Active Directory hoạt động? DNS
+Đối tượng nào đóng vai trò khởi pháp phiên truyền thông của cơ chế Poll ở trong giao thức quản trị mạng đơn giản SNMP? Manager
+Tên môi trường Windows, tài khoản người dùng được định nghĩa trên máy cục bộ và tài khoản này chỉ được phép chọn logon, truy cập các tài nguyên trên máy tính cục bộ được gọi là tài nguyên gì?Tài khoản người dùng cục bộ (Local User Account)
+Sử dụng câu lệnh nào để kiểm tra dịch vụ DNS? Nslookup 
+So sánh giữa System Policy và Group Policy? Chính sách nhóm chứa tất cả các chức năng của chính sách hệ thống
+Sử dụng câu lệnh nào để kiểm tra hoạt động của dịch vụ DHCP trên router? Router#show ip dhcp binding 
+Lệnh nào dùng để lưu file cấu hình đang chạy trên RAM (file running config) vào NVRAM? Router# copy running-config startupconfig 
+Có một chức năng trong hệ thống đã được thiết lập là disabled, bạn muốn thay đổi chức năng này bằng cách sử dụng GPO, cụ thể, trong GPO bạn thiết lập giá trị cho nó là Not Configured. Kết quả của thiết lập này là? Trạng thái của chức năng đó vẫn là disabled 
+Volume kiểu striped: Volume kiểu striped giúp nâng cao hiệu xuất xử lý so với volume kiểu simple. 
+Bản ghi quy định trên các server là NS 
+Thuật ngữ nào sau đây nói về một thành phần giao tiếp mềm (software interface). Nó giúp máy tính giao tiếp với thiết bị in?  Printer driver
+Bạn đang quản lý miền bmcntt.edu. Trên miền này, chỉ có user Administrator mới có quyền gia nhập một máy tính vào miền bmcntt.edu. Để cấp quyền cho tài khoản người dùng có tên HOCVIEN có quyên gia nhập một máy tính vào miền bmcntt.edu, bạn sẽ chọn chính sách hệ thống nào để thêm tài khoản HOC VIEN vào danh sách được áp dụng chính sách này?  Add workstations to the domain 
+Nếu đĩa định dạng là NTFS thì trong hộp thoại Properties sẽ có thêm một Tab gì so với hộp thoại Properties nếu ổ dĩa định dạng là FAT?  Tab Security 
+Trong hệ thống Mail Server, giao thức kết nối giữa server to server là SMTP 
+Cụm từ nào sau đây KHÔNG phải là tên của một lĩnh vực trong công tác quản trị mạng Group management 
+DHCPACK, dây là gói tin nhằm giúp DHCP server xác nhận thông tin áp dụng cho client
+Tên của các lĩnh vực trong công tác quản trị mạng: Configuration management, Accounting management, Fault management, Security management, Performance Management 
+Để chuyển Windows Server 2012 R2 từ chế độ Server Core sang Minimal Server Interface, bạn phải cài đặt feature nào? Graphical Management Tools and Infrastructure 
+Kiểu Volunt nào sau đây được Windows Server 2012 R2 hỗ trợ và có khả năng chịu lỗi? Mirrored
+Profile có 2 loại là Network Profile và Local Profile. Vậy Network Profile có những loại nào? Roaming profile và Mandatory profile
+Đâu là một kết luận sai khi nói về quy tắc đặt mật khẩu cho Router Không phân biệt chữ hoa, chữ thường
+Giả sử trong cơ quan nhiều người dùng có nhu cầu sử dụng tài nguyên trong hệ thống giống nhau. Anh (chị) hãy cho biết cách đơn giản nhất để cấp quyền cho họ là? Đặt họ vào những nhóm, sau đó gán quyền cho các nhóm đó
+Lệnh nào dùng để xóa file cấu hình đang lưu trong NVRAM 
 Router# erase startup-config
-49.	Resource Record nào ánh xạ tên máy (hostname) vào địa chỉ IP version 6? AAAA
-50.	Câu lệnh nào cấu hình định tuyến mặc định cho router?  
+Resource Record nào ánh xạ tên máy (hostname) vào địa chỉ IP version 6? AAAA
+Câu lệnh nào cấu hình định tuyến mặc định cho router?  
 router(config)#ip route 0.0.0.0 0.0.0.0 10.1.1.1
-51.	Roaming profile cho phép lưu profile của user trên đâu? Client 
-52.	FTP sử dụng cổng nào để truyền lệnh? 21 
-53.	 Khi lược sử của 1 NSD bị hỏng, không đăng nhập được, cần thực hiện thao tác gì Xóa lược sử cũ của NSD
-54.	Group policy dùng để A. Ấn định quyền hạn User B. Thiết lập kịch bản logon C. Triển khai phần mềm ứng dụng cho Client D. Tất cả
-55.	Khi nào quyền của file hoặc thư mục không thay đổi Di chuyển trong một phân vùng NTFS
-56.	Thông tin người dùng được quản lý bởi dịch vụ Active Directory và được lưu trữ trên Domain Controller với tập tin là: NTDS.DIT
-57.	DHCPREQUEST, đây là thông điệp trao đổi giữa DHCP Client và DHCP Server. Thông điệp này nằm ở bước thứ 3 trong quy trình
-58.	User đăng nhập bằng cách gõ tên đăng nhập và password. Windows 2003 kiểm chứng thông tin về user. Nếu đăng nhập vào domain-Windows 2003 kiểm chứng thông tin trên một: Domain Controller
-59.	 Hệ điều hành Windows Server 2003 mặc định hỗ trợ cài đặt: IIS 6.0
-60.	 Bản ghi nào cho biết Mail server MX 
-61.	Để giải nén một file đã được nén bằng NTFS, cần: Khi mở file, hệ thống tự động giải nén
-62.	 Quyền nào trong các quyền sau đây cho phép thực hiện nội dung của file Read/Execute
-63.	DFS viết tắt cho Distributed File System
-64.	 Để thay đổi chính sách về mật khẩu trên miền ta sử dụng công cụ nào trong Administrative Tools: Domain Security Policy
-65.	 Để làm cho các thay đổi về môi trường không tác động lên lược sử mạng, cần làm thao tác gì: Thay đổi tên file ntuser.dat thành file ntuser.man
-66.	 Khi 1 file nén được copy từ 1 phân chương đến 1 thư mục nén trên 1 phân chương khác thì:Phải giải nén, copy trong trạng thái không nén, sau đó lại nén lại.
-67.	Loại backup nào sau đây có thể được thực hiện qua mạng Các tệp và thư mục
-68.	Giả sử ổ đĩa C: đã được định dạng với hệ thống tệp tin FAT, cần sử dụng lệnh nào dưới đây đểchuyển đổi ổ này sang hệ thống tệp tin NTFS? convert C: /fs:ntfs 
-69.	Hãy xác định 1 thành phần dưới đây không phải là thành phần trong cấu trúc logic của Active Directory (Chuong 3) A. Tree B. Forest C. Site D. Domain
-70.	NSD u01 thuộc về hai nhóm g1 và g2. Nhóm g2 có quyền full control trên file f1. Nhóm g1 bị từ chối quyền write trên file f1. Quyền thực tế trên f1 của u01 là gì: Read/Execute
-71. Switch hoạt động ở tầng nào trong mô hình OSI? Tầng 2
-72. Lệnh nào để xem bảng MAC Address trên switch Cisco? show mac-address-table
-73. Router hoạt động chủ yếu ở tầng nào của mô hình OSI?Tầng 3 
-74. Câu lệnh nào dùng để lưu cấu hình hiện tại vào bộ nhớ khởi động trên switch/router? copy running-config startup-config
-75 VLAN dùng để chia mạng như thế nào? Theo cổng vật lý
-76. Để gán một cổng switch vào VLAN 10, lệnh nào sau đây đúng? switchport access vlan 10
+Roaming profile cho phép lưu profile của user trên đâu? Client 
+FTP sử dụng cổng nào để truyền lệnh? 21 
+Khi lược sử của 1 NSD bị hỏng, không đăng nhập được, cần thực hiện thao tác gì Xóa lược sử cũ của NSD
+Group policy dùng để Ấn định quyền hạn User,Thiết lập kịch bản logon,Triển khai phần mềm ứng dụng cho Client
+Khi nào quyền của file hoặc thư mục không thay đổi Di chuyển trong một phân vùng NTFS
+Thông tin người dùng được quản lý bởi dịch vụ Active Directory và được lưu trữ trên Domain Controller với tập tin là: NTDS.DIT
+DHCPREQUEST, đây là thông điệp trao đổi giữa DHCP Client và DHCP Server. Thông điệp này nằm ở bước thứ 3 trong quy trình
+User đăng nhập bằng cách gõ tên đăng nhập và password. Windows 2003 kiểm chứng thông tin về user. Nếu đăng nhập vào domain-Windows 2003 kiểm chứng thông tin trên một: Domain Controller
+Hệ điều hành Windows Server 2003 mặc định hỗ trợ cài đặt: IIS 6.0
+Bản ghi nào cho biết Mail server MX 
+Để giải nén một file đã được nén bằng NTFS, cần: Khi mở file, hệ thống tự động giải nén
+Quyền nào trong các quyền sau đây cho phép thực hiện nội dung của file Read/Execute
+DFS viết tắt cho Distributed File System
+Để thay đổi chính sách về mật khẩu trên miền ta sử dụng công cụ nào trong Administrative Tools: Domain Security Policy
+Để làm cho các thay đổi về môi trường không tác động lên lược sử mạng, cần làm thao tác gì: Thay đổi tên file ntuser.dat thành file ntuser.man
+Khi 1 file nén được copy từ 1 phân chương đến 1 thư mục nén trên 1 phân chương khác thì:Phải giải nén, copy trong trạng thái không nén, sau đó lại nén lại.
+Loại backup nào sau đây có thể được thực hiện qua mạng Các tệp và thư mục
+Giả sử ổ đĩa C: đã được định dạng với hệ thống tệp tin FAT, cần sử dụng lệnh nào dưới đây đểchuyển đổi ổ này sang hệ thống tệp tin NTFS? convert C: /fs:ntfs 
+Hãy xác định 1 thành phần dưới đây không phải là thành phần trong cấu trúc logic của Active Directory (Chuong 3) A. Tree B. Forest C. Site D. Domain
+NSD u01 thuộc về hai nhóm g1 và g2. Nhóm g2 có quyền full control trên file f1. Nhóm g1 bị từ chối quyền write trên file f1. Quyền thực tế trên f1 của u01 là gì: Read/Execute
+Switch hoạt động ở tầng nào trong mô hình OSI? Tầng 2
+Lệnh nào để xem bảng MAC Address trên switch Cisco? show mac-address-table
+Router hoạt động chủ yếu ở tầng nào của mô hình OSI?Tầng 3 
+Câu lệnh nào dùng để lưu cấu hình hiện tại vào bộ nhớ khởi động trên switch/router? copy running-config startup-config
+VLAN dùng để chia mạng như thế nào? Theo cổng vật lý
+Để gán một cổng switch vào VLAN 10, lệnh nào sau đây đúng? switchport access vlan 10
 Chế độ nào cho phép switch trunk nhiều VLAN? Trunk mode
 Router nào của Cisco dùng chủ yếu cho văn phòng nhỏ (SOHO)? Cisco 1900
 Địa chỉ IP nào sau đây là địa chỉ broadcast lớp C? 192.168.1.255
@@ -149,3 +149,5 @@ Trong phần mềm mô phỏng Packet Tracer, sử dụng công cụ nào trong 
 Trong tấn công từ chối dịch vụ phân tán, các máy tính bị cài đặt hay lây nhiễm các chương trình nguy hiểm và bị điều khiển bởi thành phần nào? Master hay Handler
 Trong cấu hình router, đâu là phát biểu đúng khi nói về khoảng cách quản trị - AD (Administrative Distance)? AD là một số nguyên nhận giá trị từ 0 đến 255
 Trong các tác vụ quản trị mạng, quy trình quản trị hiệu năng mạng không bao gồm giai đoạn nào? Khắc phục lỗi và kiểm tra sự hoạt động trở lại bình thường của hệ thống
+Bạn đang quản lý miền bmcntt.edu. Trên miền này, chỉ có user Administrator mới có quyền gia nhập một máy tính vào miền bmcntt.edu. Để cấp quyền cho tài khoản người dùng có tên HOCVIEN? Add workstations to the domain
+Tính bí mật của dữ liệu nghĩa là:  Chỉ người có quyền mới được truy cập 
