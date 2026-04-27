@@ -140,3 +140,12 @@ Khi liên kết đối tượng chính sách nhóm GPO vào các đối tượng
 PB1 đúng, PB2 đúng
 Một SNMP agent có thể gửi messages nào?Response
 Khi nói về cơ chế Poll ở trong giao thức quản trị mạng đơn giản SNMP, khẳng định nào sau đây là KHÔNG đúng? Mỗi khi trong Device xảy ra một sự kiện (event) nào đó thì Device sẽ tự động gửi thông báo cho Manager.
+Thứ tự thực hiện các luật (rule) trong chính sách bảo mật (security policy) ở tường lửa (firewall) là:Từ trên xuống
+Sử dụng biện pháp nào sau đây để phòng chống tấn công “Ping Sweep” hiệu quả? Cấu hình ở tường lửa (firewall) để chặn các gói tin ICMP mặc định
+Trong giao thức quản trị mạng đơn giản SNMP, mỗi object có một tên gọi và một mã số để nhận dạng object đó, mã số đó được gọi là gì? OID
+Trong hệ thống quản trị mạng, bộ phận chịu trách nhiệm kiểm soát quyền truy cập vào mạng dựa trên chính sách được xác định trước được gọi là: Security Management
+Trong mô hình mạng Domain, việc chứng thực người dùng đăng nhập vào hệ thống được thực hiện tại: Tại Domain Controller
+Trong phần mềm mô phỏng Packet Tracer, sử dụng công cụ nào trong số các công cụ sau đây để tiến hành kiểm tra quá trình gửi và nhận giữa các thiết bị? Add Simple PDU
+Trong tấn công từ chối dịch vụ phân tán, các máy tính bị cài đặt hay lây nhiễm các chương trình nguy hiểm và bị điều khiển bởi thành phần nào? Master hay Handler
+Trong cấu hình router, đâu là phát biểu đúng khi nói về khoảng cách quản trị - AD (Administrative Distance)? AD là một số nguyên nhận giá trị từ 0 đến 255
+Trong các tác vụ quản trị mạng, quy trình quản trị hiệu năng mạng không bao gồm giai đoạn nào? Khắc phục lỗi và kiểm tra sự hoạt động trở lại bình thường của hệ thống
